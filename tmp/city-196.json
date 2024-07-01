@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.33",
+        "longitude": "139.53",
+        "geo": "36.33, 139.53",
+        "city": "Utsunomiya",
+        "province_icon": "",
+        "province": "Tochigi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "25.37",
+        "longitude": "85.09",
+        "geo": "25.37, 85.09",
+        "city": "Patna",
+        "province_icon": "",
+        "province": "Bihar",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "4.16",
+        "longitude": "15.18",
+        "geo": "4.16, 15.18",
+        "city": "Brazzaville",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+        "country": "Republic of the Congo"
+    },
+    {
+        "latitude": "45.34",
+        "longitude": "72.04",
+        "geo": "45.34, 72.04",
+        "city": "Coihaique",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "6.481",
+        "longitude": "58.101",
+        "geo": "6.48, 58.10a",
+        "city": "Georgetown",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png",
+        "country": "Guyana"
+    }
+]

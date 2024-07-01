@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "14.47",
+        "longitude": "16.55",
+        "geo": "14.47, 16.55",
+        "city": "Thiès",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+        "country": "Senegal"
+    },
+    {
+        "latitude": "56.501",
+        "longitude": "53.111",
+        "geo": "56.50, 53.11a",
+        "city": "Izhevsk",
+        "province_icon": "",
+        "province": "Udmurt Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "13.291",
+        "longitude": "144.451",
+        "geo": "13.29, 144.45a",
+        "city": "Hagåtña",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/23px-Flag_of_Guam.svg.png",
+        "province": "Guam",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "50.07",
+        "longitude": "8.41",
+        "geo": "50.07, 8.41",
+        "city": "Frankfurt am Main",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Hesse.svg/23px-Flag_of_Hesse.svg.png",
+        "province": "Hesse",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "18.59",
+        "longitude": "72.50",
+        "geo": "18.59, 72.50",
+        "city": "Mumbai",
+        "province_icon": "",
+        "province": "Maharashtra",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "51.271",
+        "longitude": "2.351",
+        "geo": "51.27, 2.35a",
+        "city": "Bristol",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "42.28",
+        "longitude": "59.36",
+        "geo": "42.28, 59.36",
+        "city": "Nukus",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Karakalpakstan.svg/23px-Flag_of_Karakalpakstan.svg.png",
+        "province": "Karakalpakstan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+        "country": "Uzbekistan"
+    },
+    {
+        "latitude": "4.031",
+        "longitude": "39.401",
+        "geo": "4.03, 39.40a",
+        "city": "Mombasa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+        "country": "Kenya"
+    },
+    {
+        "latitude": "57.28",
+        "longitude": "4.14",
+        "geo": "57.28, 4.14",
+        "city": "Inverness",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png",
+        "province": "Scotland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "16.56",
+        "longitude": "145.47",
+        "geo": "16.56, 145.47",
+        "city": "Cairns",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Queensland.svg/23px-Flag_of_Queensland.svg.png",
+        "province": "Queensland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    }
+]

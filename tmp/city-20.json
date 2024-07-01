@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "21.121",
+        "longitude": "159.461",
+        "geo": "21.12, 159.46a",
+        "city": "Avarua",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/23px-Flag_of_the_Cook_Islands.svg.png",
+        "province": "Cook Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "30.151",
+        "longitude": "97.451",
+        "geo": "30.15, 97.45a",
+        "city": "Austin",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png",
+        "province": "Texas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "32.47",
+        "longitude": "96.48",
+        "geo": "32.47, 96.48",
+        "city": "Dallas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png",
+        "province": "Texas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "67.33",
+        "longitude": "133.23",
+        "geo": "67.33, 133.23",
+        "city": "Verkhoyansk",
+        "province_icon": "",
+        "province": "Sakha Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "7.29",
+        "longitude": "134.36",
+        "geo": "7.29, 134.36",
+        "city": "Melekeok",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png",
+        "country": "Palau"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "34.21",
+        "longitude": "134.03",
+        "geo": "34.21, 134.03",
+        "city": "Takamatsu",
+        "province_icon": "",
+        "province": "Kagawa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "6.40",
+        "longitude": "1.37",
+        "geo": "6.40, 1.37",
+        "city": "Kumasi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "country": "Ghana"
+    },
+    {
+        "latitude": "43.15",
+        "longitude": "65.18",
+        "geo": "43.15, 65.18",
+        "city": "Trelew",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_la_Provincia_del_Chubut.svg/23px-Bandera_de_la_Provincia_del_Chubut.svg.png",
+        "province": "Chubut",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "45.28",
+        "longitude": "9.11",
+        "geo": "45.28, 9.11",
+        "city": "Milan",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Lombardy.svg/23px-Flag_of_Lombardy.svg.png",
+        "province": "Lombardy",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "9.581",
+        "longitude": "67.491",
+        "geo": "9.58, 67.49a",
+        "city": "Rio Branco",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/22px-Bandeira_do_Acre.svg.png",
+        "province": "Acre",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

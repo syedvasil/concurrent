@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "9.40",
+        "longitude": "35.44",
+        "geo": "9.40, 35.44",
+        "city": "Maceió",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/23px-Bandeira_de_Alagoas.svg.png",
+        "province": "Alagoas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "47.34",
+        "longitude": "7.36",
+        "geo": "47.34, 7.36",
+        "city": "Basel",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "country": "Switzerland"
+    },
+    {
+        "latitude": "1.34",
+        "longitude": "110.21",
+        "geo": "1.34, 110.21",
+        "city": "Kuching",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Sarawak.svg/23px-Flag_of_Sarawak.svg.png",
+        "province": "Sarawak",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "38.01",
+        "longitude": "12.30",
+        "geo": "38.01, 12.30",
+        "city": "Trapani",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Sicily_%28revised%29.svg/23px-Flag_of_Sicily_%28revised%29.svg.png",
+        "province": "Sicily",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "25.28",
+        "longitude": "30.59",
+        "geo": "25.28, 30.59",
+        "city": "Nelspruit",
+        "province_icon": "",
+        "province": "Mpumalanga",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "25.451",
+        "longitude": "28.111",
+        "geo": "25.45, 28.11a",
+        "city": "Pretoria",
+        "province_icon": "",
+        "province": "Gauteng",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "2.321",
+        "longitude": "140.431",
+        "geo": "2.32, 140.43a",
+        "city": "Jayapura",
+        "province_icon": "",
+        "province": "Papua",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "60.101",
+        "longitude": "24.561",
+        "geo": "60.10, 24.56a",
+        "city": "Helsinki",
+        "province_icon": "",
+        "province": "Uusimaa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "34.01",
+        "longitude": "71.35",
+        "geo": "34.01, 71.35",
+        "city": "Peshawar",
+        "province_icon": "",
+        "province": "Khyber Pakhtunkhwa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "6.08",
+        "longitude": "102.15",
+        "geo": "6.08, 102.15",
+        "city": "Kota Bharu",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Flag_of_Kelantan.svg/23px-Flag_of_Kelantan.svg.png",
+        "province": "Kelantan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    }
+]

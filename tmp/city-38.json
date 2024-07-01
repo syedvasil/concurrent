@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "15.20",
+        "longitude": "38.56",
+        "geo": "15.20, 38.56",
+        "city": "Asmara",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png",
+        "country": "Eritrea"
+    },
+    {
+        "latitude": "37.12",
+        "longitude": "93.17",
+        "geo": "37.12, 93.17",
+        "city": "Springfield",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/23px-Flag_of_Missouri.svg.png",
+        "province": "Missouri",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "54.17",
+        "longitude": "36.30",
+        "geo": "54.17, 36.30",
+        "city": "Grytviken",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/23px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
+        "province": "South Georgia and the South Sandwich Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "46.57",
+        "longitude": "7.27",
+        "geo": "46.57, 7.27",
+        "city": "Bern",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "country": "Switzerland"
+    },
+    {
+        "latitude": "20.58",
+        "longitude": "89.37",
+        "geo": "20.58, 89.37",
+        "city": "Mérida",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Yucatan.svg/23px-Flag_of_Yucatan.svg.png",
+        "province": "Yucatán",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

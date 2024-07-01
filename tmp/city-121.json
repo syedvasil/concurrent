@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.191",
+        "longitude": "10.481",
+        "geo": "6.19, 10.48a",
+        "city": "Monrovia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png",
+        "country": "Liberia"
+    },
+    {
+        "latitude": "8.50",
+        "longitude": "13.14",
+        "geo": "8.50, 13.14",
+        "city": "Luanda",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+        "country": "Angola"
+    },
+    {
+        "latitude": "6.08",
+        "longitude": "1.13",
+        "geo": "6.08, 1.13",
+        "city": "Lomé",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png",
+        "country": "Togo"
+    },
+    {
+        "latitude": "73.30",
+        "longitude": "80.31",
+        "geo": "73.30, 80.31",
+        "city": "Dikson",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/KrasnoyarskKray-Flag.svg/23px-KrasnoyarskKray-Flag.svg.png",
+        "province": "Krasnoyarsk Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "11.40",
+        "longitude": "27.28",
+        "geo": "11.40, 27.28",
+        "city": "Lubumbashi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+        "country": "Democratic Republic of the Congo"
+    }
+]

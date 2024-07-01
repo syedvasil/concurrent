@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "18.28",
+        "longitude": "69.57",
+        "geo": "18.28, 69.57",
+        "city": "Santo Domingo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png",
+        "country": "Dominican Republic"
+    },
+    {
+        "latitude": "46.31",
+        "longitude": "6.38",
+        "geo": "46.31, 6.38",
+        "city": "Lausanne",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "country": "Switzerland"
+    },
+    {
+        "latitude": "24.521",
+        "longitude": "67.011",
+        "geo": "24.52, 67.01a",
+        "city": "Karachi",
+        "province_icon": "",
+        "province": "Sindh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "43.46",
+        "longitude": "142.22",
+        "geo": "43.46, 142.22",
+        "city": "Asahikawa",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "48.47",
+        "longitude": "9.11",
+        "geo": "48.47, 9.11",
+        "city": "Stuttgart",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg/23px-Flag_of_Baden-W%C3%BCrttemberg.svg.png",
+        "province": "Baden-Württemberg",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    }
+]

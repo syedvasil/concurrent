@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.19",
+        "longitude": "5.36",
+        "geo": "6.19, 5.36",
+        "city": "Benin City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "16.30",
+        "longitude": "68.09",
+        "geo": "16.30, 68.09",
+        "city": "La Paz",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
+        "country": "Bolivia"
+    },
+    {
+        "latitude": "29.04",
+        "longitude": "167.58",
+        "geo": "29.04, 167.58",
+        "city": "Kingston",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/23px-Flag_of_Norfolk_Island.svg.png",
+        "province": "Norfolk Island",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "0.201",
+        "longitude": "6.411",
+        "geo": "0.20, 6.41a",
+        "city": "São Tomé",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/23px-Flag_of_Sao_Tome_and_Principe.svg.png",
+        "country": "São Tomé and Príncipe"
+    },
+    {
+        "latitude": "46.29",
+        "longitude": "81.01",
+        "geo": "46.29, 81.01",
+        "city": "Sudbury",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    }
+]

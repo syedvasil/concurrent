@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "22.33",
+        "longitude": "114.06",
+        "geo": "22.33, 114.06",
+        "city": "Shenzhen",
+        "province_icon": "",
+        "province": "Guangdong",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "53.10",
+        "longitude": "70.56",
+        "geo": "53.10, 70.56",
+        "city": "Punta Arenas",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "56.57",
+        "longitude": "24.06",
+        "geo": "56.57, 24.06",
+        "city": "Riga",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+        "country": "Latvia"
+    },
+    {
+        "latitude": "40.511",
+        "longitude": "14.161",
+        "geo": "40.51, 14.16a",
+        "city": "Naples",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_Campania.svg/23px-Flag_of_Campania.svg.png",
+        "province": "Campania",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "8.31",
+        "longitude": "179.13",
+        "geo": "8.31, 179.13",
+        "city": "Funafuti",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png",
+        "country": "Tuvalu"
+    }
+]

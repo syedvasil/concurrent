@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "16.04",
+        "longitude": "108.14",
+        "geo": "16.04, 108.14",
+        "city": "Da Nang",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "60.12",
+        "longitude": "24.39",
+        "geo": "60.12, 24.39",
+        "city": "Espoo",
+        "province_icon": "",
+        "province": "Uusimaa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "31.12",
+        "longitude": "29.55",
+        "geo": "31.12, 29.55",
+        "city": "Alexandria",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "country": "Egypt"
+    },
+    {
+        "latitude": "16.00",
+        "longitude": "61.44",
+        "geo": "16.00, 61.44",
+        "city": "Basse-Terre",
+        "province_icon": "",
+        "province": "Guadeloupe",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "26.13",
+        "longitude": "50.35",
+        "geo": "26.13, 50.35",
+        "city": "Manama",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+        "country": "Bahrain"
+    }
+]

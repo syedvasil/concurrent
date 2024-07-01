@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.50",
+        "longitude": "73.03",
+        "geo": "36.50, 73.03",
+        "city": "Concepción",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "10.241",
+        "longitude": "75.301",
+        "geo": "10.24, 75.30a",
+        "city": "Cartagena",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    },
+    {
+        "latitude": "20.40",
+        "longitude": "103.21",
+        "geo": "20.40, 103.21",
+        "city": "Guadalajara",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/23px-Flag_of_Jalisco.svg.png",
+        "province": "Jalisco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "54.59",
+        "longitude": "73.22",
+        "geo": "54.59, 73.22",
+        "city": "Omsk",
+        "province_icon": "",
+        "province": "Omsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "55.41",
+        "longitude": "12.34",
+        "geo": "55.41, 12.34",
+        "city": "Copenhagen",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "43.00",
+        "longitude": "41.01",
+        "geo": "43.00, 41.01",
+        "city": "Sukhumi",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Abkhazia.svg/23px-Flag_of_Abkhazia.svg.png",
+        "province": "Abkhazia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+        "country": "Georgia"
+    },
+    {
+        "latitude": "38.591",
+        "longitude": "1.261",
+        "geo": "38.59, 1.26a",
+        "city": "Ibiza",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_the_Balearic_Islands.svg/23px-Flag_of_the_Balearic_Islands.svg.png",
+        "province": "Balearic Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "15.21",
+        "longitude": "44.12",
+        "geo": "15.21, 44.12",
+        "city": "Sana'a",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png",
+        "country": "Yemen"
+    },
+    {
+        "latitude": "29.54",
+        "longitude": "71.15",
+        "geo": "29.54, 71.15",
+        "city": "La Serena",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "65.50",
+        "longitude": "21.43",
+        "geo": "65.50, 21.43",
+        "city": "Boden",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.38",
+        "longitude": "138.11",
+        "geo": "36.38, 138.11",
+        "city": "Nagano",
+        "province_icon": "",
+        "province": "Nagano",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "29.16",
+        "longitude": "88.53",
+        "geo": "29.16, 88.53",
+        "city": "Shigatse",
+        "province_icon": "",
+        "province": "Tibet",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "32.03",
+        "longitude": "118.46",
+        "geo": "32.03, 118.46",
+        "city": "Nanjing",
+        "province_icon": "",
+        "province": "Jiangsu",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "31.44",
+        "longitude": "106.29",
+        "geo": "31.44, 106.29",
+        "city": "Ciudad Juárez",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Chihuahua.svg/23px-Flag_of_Chihuahua.svg.png",
+        "province": "Chihuahua",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "12.27",
+        "longitude": "130.50",
+        "geo": "12.27, 130.50",
+        "city": "Darwin",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_the_Northern_Territory.svg/23px-Flag_of_the_Northern_Territory.svg.png",
+        "province": "Northern Territory",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    }
+]

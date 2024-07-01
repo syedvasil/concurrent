@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "19.45",
+        "longitude": "96.06",
+        "geo": "19.45, 96.06",
+        "city": "Naypyidaw",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png",
+        "country": "Myanmar"
+    },
+    {
+        "latitude": "34.03",
+        "longitude": "118.15",
+        "geo": "34.03, 118.15",
+        "city": "Los Angeles",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "38.32",
+        "longitude": "68.47",
+        "geo": "38.32, 68.47",
+        "city": "Dushanbe",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png",
+        "country": "Tajikistan"
+    },
+    {
+        "latitude": "34.23",
+        "longitude": "132.27",
+        "geo": "34.23, 132.27",
+        "city": "Hiroshima",
+        "province_icon": "",
+        "province": "Hiroshima",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "21.461",
+        "longitude": "43.211",
+        "geo": "21.46, 43.21a",
+        "city": "Juiz de Fora",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/22px-Bandeira_de_Minas_Gerais.svg.png",
+        "province": "Minas Gerais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "55.10",
+        "longitude": "118.48",
+        "geo": "55.10, 118.48",
+        "city": "Grande Prairie",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/23px-Flag_of_Alberta.svg.png",
+        "province": "Alberta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "52.141",
+        "longitude": "21.011",
+        "geo": "52.14, 21.01a",
+        "city": "Warsaw",
+        "province_icon": "",
+        "province": "Masovian Voivodship",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "country": "Poland"
+    },
+    {
+        "latitude": "0.33",
+        "longitude": "166.55",
+        "geo": "0.33, 166.55",
+        "city": "Yaren District",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png",
+        "country": "Nauru"
+    },
+    {
+        "latitude": "47.14",
+        "longitude": "39.42",
+        "geo": "47.14, 39.42",
+        "city": "Rostov-on-Don",
+        "province_icon": "",
+        "province": "Rostov Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "35.361",
+        "longitude": "140.061",
+        "geo": "35.36, 140.06a",
+        "city": "Chiba",
+        "province_icon": "",
+        "province": "Chiba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

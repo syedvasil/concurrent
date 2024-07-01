@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "39.061",
+        "longitude": "84.311",
+        "geo": "39.06, 84.31a",
+        "city": "Cincinnati",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/23px-Flag_of_Ohio.svg.png",
+        "province": "Ohio",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "39.081",
+        "longitude": "117.111",
+        "geo": "39.08, 117.11a",
+        "city": "Tianjin",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "28.09",
+        "longitude": "15.25",
+        "geo": "28.09, 15.25",
+        "city": "Las Palmas de Gran Canaria",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/23px-Flag_of_the_Canary_Islands.svg.png",
+        "province": "Canary Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "37.41",
+        "longitude": "97.20",
+        "geo": "37.41, 97.20",
+        "city": "Wichita",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/23px-Flag_of_Kansas.svg.png",
+        "province": "Kansas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "43.47",
+        "longitude": "11.15",
+        "geo": "43.47, 11.15",
+        "city": "Florence",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/23px-Flag_of_Tuscany.svg.png",
+        "province": "Tuscany",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    }
+]

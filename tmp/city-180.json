@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "41.46",
+        "longitude": "72.40",
+        "geo": "41.46, 72.40",
+        "city": "Hartford",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/20px-Flag_of_Connecticut.svg.png",
+        "province": "Connecticut",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "15.36",
+        "longitude": "56.06",
+        "geo": "15.36, 56.06",
+        "city": "Cuiabá",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/22px-Bandeira_de_Mato_Grosso.svg.png",
+        "province": "Mato Grosso",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "34.56",
+        "longitude": "138.36",
+        "geo": "34.56, 138.36",
+        "city": "Adelaide",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_South_Australia.svg/23px-Flag_of_South_Australia.svg.png",
+        "province": "South Australia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "32.32",
+        "longitude": "117.02",
+        "geo": "32.32, 117.02",
+        "city": "Tijuana",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/23px-Flag_of_Baja_California.svg.png",
+        "province": "Baja California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "10.15",
+        "longitude": "67.36",
+        "geo": "10.15, 67.36",
+        "city": "Maracay",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    }
+]

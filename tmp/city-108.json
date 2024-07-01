@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "54.20",
+        "longitude": "10.08",
+        "geo": "54.20, 10.08",
+        "city": "Kiel",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Schleswig-Holstein.svg/23px-Flag_of_Schleswig-Holstein.svg.png",
+        "province": "Schleswig-Holstein",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "37.23",
+        "longitude": "5.59",
+        "geo": "37.23, 5.59",
+        "city": "Sevilla",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/23px-Flag_of_Andaluc%C3%ADa.svg.png",
+        "province": "Andalusia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "45.15",
+        "longitude": "19.51",
+        "geo": "45.15, 19.51",
+        "city": "Novi Sad",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_Vojvodina.svg/23px-Flag_of_Vojvodina.svg.png",
+        "province": "Vojvodina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "country": "Serbia"
+    },
+    {
+        "latitude": "37.49",
+        "longitude": "144.58",
+        "geo": "37.49, 144.58",
+        "city": "Melbourne",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Victoria_%28Australia%29.svg/23px-Flag_of_Victoria_%28Australia%29.svg.png",
+        "province": "Victoria",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "25.581",
+        "longitude": "32.351",
+        "geo": "25.58, 32.35a",
+        "city": "Maputo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png",
+        "country": "Mozambique"
+    }
+]

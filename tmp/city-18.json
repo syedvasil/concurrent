@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "17.151",
+        "longitude": "88.461",
+        "geo": "17.15, 88.46a",
+        "city": "Belmopan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+        "country": "Belize"
+    },
+    {
+        "latitude": "25.31",
+        "longitude": "54.37",
+        "geo": "25.31, 54.37",
+        "city": "Ciudad del Este",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+        "country": "Paraguay"
+    },
+    {
+        "latitude": "23.42",
+        "longitude": "90.23",
+        "geo": "23.42, 90.23",
+        "city": "Dhaka",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+        "country": "Bangladesh"
+    },
+    {
+        "latitude": "13.171",
+        "longitude": "176.111",
+        "geo": "13.17, 176.11a",
+        "city": "Mata-Utu",
+        "province_icon": "",
+        "province": "Wallis and Futuna",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "7.121",
+        "longitude": "39.201",
+        "geo": "7.12, 39.20a",
+        "city": "Juazeiro do Norte",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/22px-Bandeira_do_Cear%C3%A1.svg.png",
+        "province": "Ceará",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

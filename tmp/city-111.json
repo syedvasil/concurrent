@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "13.09",
+        "longitude": "61.14",
+        "geo": "13.09, 61.14",
+        "city": "Kingstown",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+        "country": "Saint Vincent and the Grenadines"
+    },
+    {
+        "latitude": "45.52",
+        "longitude": "170.30",
+        "geo": "45.52, 170.30",
+        "city": "Dunedin",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "40.11",
+        "longitude": "29.03",
+        "geo": "40.11, 29.03",
+        "city": "Bursa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "18.061",
+        "longitude": "15.571",
+        "geo": "18.06, 15.57a",
+        "city": "Nouakchott",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png",
+        "country": "Mauritania"
+    },
+    {
+        "latitude": "28.37",
+        "longitude": "77.13",
+        "geo": "28.37, 77.13",
+        "city": "New Delhi",
+        "province_icon": "",
+        "province": "Delhi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    }
+]

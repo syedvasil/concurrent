@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "51.29",
+        "longitude": "0.00",
+        "geo": "51.29, 0.00",
+        "city": "Greenwich",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "34.42",
+        "longitude": "135.30",
+        "geo": "34.42, 135.30",
+        "city": "Osaka",
+        "province_icon": "",
+        "province": "Osaka",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "39.41",
+        "longitude": "141.09",
+        "geo": "39.41, 141.09",
+        "city": "Morioka",
+        "province_icon": "",
+        "province": "Iwate",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "55.00",
+        "longitude": "7.18",
+        "geo": "55.00, 7.18",
+        "city": "Derry",
+        "province_icon": "",
+        "province": "Northern Ireland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "25.17",
+        "longitude": "51.32",
+        "geo": "25.17, 51.32",
+        "city": "Doha",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png",
+        "country": "Qatar"
+    }
+]

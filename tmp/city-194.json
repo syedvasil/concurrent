@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "70.40",
+        "longitude": "23.41",
+        "geo": "70.40, 23.41",
+        "city": "Hammerfest",
+        "province_icon": "",
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "36.021",
+        "longitude": "103.481",
+        "geo": "36.02, 103.48a",
+        "city": "Lanzhou",
+        "province_icon": "",
+        "province": "Gansu",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "13.50",
+        "longitude": "171.45",
+        "geo": "13.50, 171.45",
+        "city": "Apia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png",
+        "country": "Samoa"
+    },
+    {
+        "latitude": "6.30",
+        "longitude": "2.36",
+        "geo": "6.30, 2.36",
+        "city": "Porto-Novo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+        "country": "Benin"
+    },
+    {
+        "latitude": "64.11",
+        "longitude": "51.44",
+        "geo": "64.11, 51.44",
+        "city": "Nuuk (Godthåb)",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+        "province": "Greenland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "55.35",
+        "longitude": "13.02",
+        "geo": "55.35, 13.02",
+        "city": "Malmö",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "0.151",
+        "longitude": "78.351",
+        "geo": "0.15, 78.35a",
+        "city": "Quito",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+        "country": "Ecuador"
+    },
+    {
+        "latitude": "48.26",
+        "longitude": "123.22",
+        "geo": "48.26, 123.22",
+        "city": "Victoria",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/23px-Flag_of_British_Columbia.svg.png",
+        "province": "British Columbia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "23.50",
+        "longitude": "91.16",
+        "geo": "23.50, 91.16",
+        "city": "Agartala",
+        "province_icon": "",
+        "province": "Tripura",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "17.22",
+        "longitude": "78.29",
+        "geo": "17.22, 78.29",
+        "city": "Hyderabad",
+        "province_icon": "",
+        "province": "Telangana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    }
+]

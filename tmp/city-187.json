@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "34.53",
+        "longitude": "56.11",
+        "geo": "34.53, 56.11",
+        "city": "Montevideo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+        "country": "Uruguay"
+    },
+    {
+        "latitude": "0.02",
+        "longitude": "51.04",
+        "geo": "0.02, 51.04",
+        "city": "Macapá",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/22px-Bandeira_do_Amap%C3%A1.svg.png",
+        "province": "Amapá",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "7.59",
+        "longitude": "112.37",
+        "geo": "7.59, 112.37",
+        "city": "Malang",
+        "province_icon": "",
+        "province": "East Java",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "38.43",
+        "longitude": "9.08",
+        "geo": "38.43, 9.08",
+        "city": "Lisbon",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "58.29",
+        "longitude": "8.47",
+        "geo": "58.29, 8.47",
+        "city": "Arendal",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

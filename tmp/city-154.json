@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "17.58",
+        "longitude": "102.36",
+        "geo": "17.58, 102.36",
+        "city": "Vientiane",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png",
+        "country": "Laos"
+    },
+    {
+        "latitude": "27.291",
+        "longitude": "95.001",
+        "geo": "27.29, 95.00a",
+        "city": "Dibrugarh",
+        "province_icon": "",
+        "province": "Assam",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "33.32",
+        "longitude": "7.35",
+        "geo": "33.32, 7.35",
+        "city": "Casablanca",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+        "country": "Morocco"
+    },
+    {
+        "latitude": "40.39",
+        "longitude": "22.54",
+        "geo": "40.39, 22.54",
+        "city": "Thessaloniki",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "country": "Greece"
+    },
+    {
+        "latitude": "68.58",
+        "longitude": "33.05",
+        "geo": "68.58, 33.05",
+        "city": "Murmansk",
+        "province_icon": "",
+        "province": "Murmansk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

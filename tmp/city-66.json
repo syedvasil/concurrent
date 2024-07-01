@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "26.56",
+        "longitude": "75.49",
+        "geo": "26.56, 75.49",
+        "city": "Jaipur",
+        "province_icon": "",
+        "province": "Rajasthan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "41.17",
+        "longitude": "174.47",
+        "geo": "41.17, 174.47",
+        "city": "Wellington",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "46.18",
+        "longitude": "79.27",
+        "geo": "46.18, 79.27",
+        "city": "North Bay",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "21.531",
+        "longitude": "102.181",
+        "geo": "21.53, 102.18a",
+        "city": "Aguascalientes",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Aguascalientes.svg/23px-Flag_of_Aguascalientes.svg.png",
+        "province": "Aguascalientes",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "36.18",
+        "longitude": "59.36",
+        "geo": "36.18, 59.36",
+        "city": "Mashhad",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "country": "Iran"
+    }
+]

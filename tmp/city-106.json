@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "58.23",
+        "longitude": "26.43",
+        "geo": "58.23, 26.43",
+        "city": "Tartu",
+        "province_icon": "",
+        "province": "Tartu County",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+        "country": "Estonia"
+    },
+    {
+        "latitude": "17.32",
+        "longitude": "149.34",
+        "geo": "17.32, 149.34",
+        "city": "Papeete",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/23px-Flag_of_French_Polynesia.svg.png",
+        "province": "French Polynesia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "26.43",
+        "longitude": "88.26",
+        "geo": "26.43, 88.26",
+        "city": "Siliguri",
+        "province_icon": "",
+        "province": "West Bengal",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "71.39",
+        "longitude": "128.52",
+        "geo": "71.39, 128.52",
+        "city": "Tiksi",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Sakha.svg/23px-Flag_of_Sakha.svg.png",
+        "province": "Sakha Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "11.33",
+        "longitude": "104.55",
+        "geo": "11.33, 104.55",
+        "city": "Phnom Penh",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+        "country": "Cambodia"
+    }
+]

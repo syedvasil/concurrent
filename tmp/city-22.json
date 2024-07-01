@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "12.08",
+        "longitude": "86.15",
+        "geo": "12.08, 86.15",
+        "city": "Managua",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+        "country": "Nicaragua"
+    },
+    {
+        "latitude": "51.231",
+        "longitude": "2.221",
+        "geo": "51.23, 2.22a",
+        "city": "Bath",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "31.55",
+        "longitude": "131.25",
+        "geo": "31.55, 131.25",
+        "city": "Miyazaki",
+        "province_icon": "",
+        "province": "Miyazaki",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "1.16",
+        "longitude": "116.50",
+        "geo": "1.16, 116.50",
+        "city": "Balikpapan",
+        "province_icon": "",
+        "province": "East Kalimantan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "50.571",
+        "longitude": "6.581",
+        "geo": "50.57, 6.58a",
+        "city": "Cologne",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/23px-Flag_of_North_Rhine-Westphalia.svg.png",
+        "province": "North Rhine-Westphalia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    }
+]

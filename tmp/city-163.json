@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "15.11",
+        "longitude": "145.45",
+        "geo": "15.11, 145.45",
+        "city": "Saipan",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/23px-Flag_of_the_Northern_Mariana_Islands.svg.png",
+        "province": "Northern Mariana Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "57.42",
+        "longitude": "11.58",
+        "geo": "57.42, 11.58",
+        "city": "Göteborg",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "21.471",
+        "longitude": "46.341",
+        "geo": "21.47, 46.34a",
+        "city": "Poços de Caldas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/22px-Bandeira_de_Minas_Gerais.svg.png",
+        "province": "Minas Gerais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "14.38",
+        "longitude": "121.02",
+        "geo": "14.38, 121.02",
+        "city": "Quezon City",
+        "province_icon": "",
+        "province": "National Capital Region",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    },
+    {
+        "latitude": "16.401",
+        "longitude": "49.151",
+        "geo": "16.40, 49.15a",
+        "city": "Goiânia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Goi%C3%A1s.svg/22px-Bandeira_de_Goi%C3%A1s.svg.png",
+        "province": "Goiás",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "7.54",
+        "longitude": "72.30",
+        "geo": "7.54, 72.30",
+        "city": "Cúcuta",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    },
+    {
+        "latitude": "9.24",
+        "longitude": "40.30",
+        "geo": "9.24, 40.30",
+        "city": "Petrolina",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/22px-Bandeira_de_Pernambuco.svg.png",
+        "province": "Pernambuco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "52.131",
+        "longitude": "6.541",
+        "geo": "52.13, 6.54a",
+        "city": "Enschede",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Overijssel.svg/23px-Flag_of_Overijssel.svg.png",
+        "province": "Overijssel",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "30.02",
+        "longitude": "51.14",
+        "geo": "30.02, 51.14",
+        "city": "Porto Alegre",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/22px-Bandeira_do_Rio_Grande_do_Sul.svg.png",
+        "province": "Rio Grande do Sul",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "54.30",
+        "longitude": "18.33",
+        "geo": "54.30, 18.33",
+        "city": "Gdynia",
+        "province_icon": "",
+        "province": "Pomeranian Voivodeship",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "country": "Poland"
+    }
+]

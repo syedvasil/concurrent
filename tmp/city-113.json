@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "35.58",
+        "longitude": "83.57",
+        "geo": "35.58, 83.57",
+        "city": "Knoxville",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/23px-Flag_of_Tennessee.svg.png",
+        "province": "Tennessee",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "19.03",
+        "longitude": "65.15",
+        "geo": "19.03, 65.15",
+        "city": "Sucre",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
+        "country": "Bolivia"
+    },
+    {
+        "latitude": "38.54",
+        "longitude": "77.02",
+        "geo": "38.54, 77.02",
+        "city": "Washington",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Washington%2C_D.C..svg/23px-Flag_of_Washington%2C_D.C..svg.png",
+        "province": "District of Columbia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "18.32",
+        "longitude": "72.20",
+        "geo": "18.32, 72.20",
+        "city": "Port-au-Prince",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png",
+        "country": "Haiti"
+    },
+    {
+        "latitude": "33.16",
+        "longitude": "130.18",
+        "geo": "33.16, 130.18",
+        "city": "Saga",
+        "province_icon": "",
+        "province": "Saga",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

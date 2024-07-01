@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "14.55",
+        "longitude": "23.31",
+        "geo": "14.55, 23.31",
+        "city": "Praia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png",
+        "country": "Cape Verde"
+    },
+    {
+        "latitude": "7.53",
+        "longitude": "98.24",
+        "geo": "7.53, 98.24",
+        "city": "Phuket",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "5.321",
+        "longitude": "47.291",
+        "geo": "5.32, 47.29a",
+        "city": "Imperatriz",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/23px-Bandeira_do_Maranh%C3%A3o.svg.png",
+        "province": "Maranhão",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "54.48",
+        "longitude": "68.18",
+        "geo": "54.48, 68.18",
+        "city": "Ushuaia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/22px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png",
+        "province": "Tierra del Fuego",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "31.471",
+        "longitude": "106.251",
+        "geo": "31.47, 106.25a",
+        "city": "El Paso",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png",
+        "province": "Texas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

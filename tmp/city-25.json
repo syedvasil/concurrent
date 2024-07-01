@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "17.511",
+        "longitude": "25.521",
+        "geo": "17.51, 25.52a",
+        "city": "Livingstone",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+        "country": "Zambia"
+    },
+    {
+        "latitude": "18.511",
+        "longitude": "41.561",
+        "geo": "18.51, 41.56a",
+        "city": "Governador Valadares",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/22px-Bandeira_de_Minas_Gerais.svg.png",
+        "province": "Minas Gerais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "39.57",
+        "longitude": "75.10",
+        "geo": "39.57, 75.10",
+        "city": "Philadelphia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png",
+        "province": "Pennsylvania",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "63.241",
+        "longitude": "56.591",
+        "geo": "63.24, 56.59a",
+        "city": "Esperanza",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/22px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png",
+        "province": "Argentine Antarctica",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "12.58",
+        "longitude": "28.38",
+        "geo": "12.58, 28.38",
+        "city": "Ndola",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+        "country": "Zambia"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "39.54",
+        "longitude": "116.24",
+        "geo": "39.54, 116.24",
+        "city": "Beijing",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "6.54",
+        "longitude": "122.04",
+        "geo": "6.54, 122.04",
+        "city": "Zamboanga City",
+        "province_icon": "",
+        "province": "Zamboanga del Sur",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    },
+    {
+        "latitude": "59.20",
+        "longitude": "18.04",
+        "geo": "59.20, 18.04",
+        "city": "Stockholm",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "44.50",
+        "longitude": "0.35",
+        "geo": "44.50, 0.35",
+        "city": "Bordeaux",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Aquitaine.svg/23px-Flag_of_Aquitaine.svg.png",
+        "province": "Aquitaine",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "46.46",
+        "longitude": "23.35",
+        "geo": "46.46, 23.35",
+        "city": "Cluj-Napoca",
+        "province_icon": "",
+        "province": "Cluj County",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+        "country": "Romania"
+    }
+]

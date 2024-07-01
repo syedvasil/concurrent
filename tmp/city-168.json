@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.55",
+        "longitude": "158.10",
+        "geo": "6.55, 158.10",
+        "city": "Palikir",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+        "country": "Federated States of Micronesia"
+    },
+    {
+        "latitude": "27.29",
+        "longitude": "58.49",
+        "geo": "27.29, 58.49",
+        "city": "Corrientes",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bandera_de_la_Provincia_de_Corrientes.svg/23px-Bandera_de_la_Provincia_de_Corrientes.svg.png",
+        "province": "Corrientes",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "19.55",
+        "longitude": "43.56",
+        "geo": "19.55, 43.56",
+        "city": "Belo Horizonte",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/22px-Bandeira_de_Minas_Gerais.svg.png",
+        "province": "Minas Gerais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "24.47",
+        "longitude": "65.25",
+        "geo": "24.47, 65.25",
+        "city": "Salta",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bandera_de_la_Provincia_de_Salta.svg/21px-Bandera_de_la_Provincia_de_Salta.svg.png",
+        "province": "Salta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "52.381",
+        "longitude": "1.081",
+        "geo": "52.38, 1.08a",
+        "city": "Leicester",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    }
+]

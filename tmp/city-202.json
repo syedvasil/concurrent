@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "0.23",
+        "longitude": "9.27",
+        "geo": "0.23, 9.27",
+        "city": "Libreville",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+        "country": "Gabon"
+    },
+    {
+        "latitude": "36.461",
+        "longitude": "3.131",
+        "geo": "36.46, 3.13a",
+        "city": "Algiers",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png",
+        "country": "Algeria"
+    },
+    {
+        "latitude": "35.20",
+        "longitude": "25.08",
+        "geo": "35.20, 25.08",
+        "city": "Heraklion",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "country": "Greece"
+    },
+    {
+        "latitude": "40.27",
+        "longitude": "80.00",
+        "geo": "40.27, 80.00",
+        "city": "Pittsburgh",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/23px-Flag_of_Pennsylvania.svg.png",
+        "province": "Pennsylvania",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "44.25",
+        "longitude": "12.12",
+        "geo": "44.25, 12.12",
+        "city": "Ravenna",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Emilia-Romagna.svg/23px-Flag_of_Emilia-Romagna.svg.png",
+        "province": "Emilia-Romagna",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    }
+]

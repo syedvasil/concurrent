@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "28.281",
+        "longitude": "16.151",
+        "geo": "28.28, 16.15a",
+        "city": "Santa Cruz de Tenerife",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/23px-Flag_of_the_Canary_Islands.svg.png",
+        "province": "Canary Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "51.38",
+        "longitude": "69.13",
+        "geo": "51.38, 69.13",
+        "city": "Río Gallegos",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_la_Provincia_de_Santa_Cruz.svg/23px-Bandera_de_la_Provincia_de_Santa_Cruz.svg.png",
+        "province": "Santa Cruz",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "35.52",
+        "longitude": "128.36",
+        "geo": "35.52, 128.36",
+        "city": "Daegu",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "country": "South Korea"
+    },
+    {
+        "latitude": "45.46",
+        "longitude": "4.51",
+        "geo": "45.46, 4.51",
+        "city": "Lyon",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Rh%C3%B4ne-Alpes.svg/23px-Flag_of_Rh%C3%B4ne-Alpes.svg.png",
+        "province": "Rhône-Alpes",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "34.00",
+        "longitude": "81.03",
+        "geo": "34.00, 81.03",
+        "city": "Columbia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/23px-Flag_of_South_Carolina.svg.png",
+        "province": "South Carolina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "68.25",
+        "longitude": "17.34",
+        "geo": "68.25, 17.34",
+        "city": "Narvik",
+        "province_icon": "",
+        "province": "Nordland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "14.171",
+        "longitude": "170.421",
+        "geo": "14.17, 170.42a",
+        "city": "Pago Pago",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/23px-Flag_of_American_Samoa.svg.png",
+        "province": "American Samoa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "16.281",
+        "longitude": "107.351",
+        "geo": "16.28, 107.35a",
+        "city": "Huế",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "58.36",
+        "longitude": "16.12",
+        "geo": "58.36, 16.12",
+        "city": "Norrköping",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "29.39",
+        "longitude": "91.06",
+        "geo": "29.39, 91.06",
+        "city": "Lhasa",
+        "province_icon": "",
+        "province": "Tibet",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    }
+]

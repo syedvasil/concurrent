@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "18.26",
+        "longitude": "64.37",
+        "geo": "18.26, 64.37",
+        "city": "Road Town",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png",
+        "province": "British Virgin Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "48.09",
+        "longitude": "17.07",
+        "geo": "48.09, 17.07",
+        "city": "Bratislava",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+        "country": "Slovakia"
+    },
+    {
+        "latitude": "47.34",
+        "longitude": "52.42",
+        "geo": "47.34, 52.42",
+        "city": "St. John's",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Newfoundland_and_Labrador.svg/23px-Flag_of_Newfoundland_and_Labrador.svg.png",
+        "province": "Newfoundland and Labrador",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "36.40",
+        "longitude": "116.59",
+        "geo": "36.40, 116.59",
+        "city": "Jinan",
+        "province_icon": "",
+        "province": "Shandong",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "33.57",
+        "longitude": "117.24",
+        "geo": "33.57, 117.24",
+        "city": "Riverside",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

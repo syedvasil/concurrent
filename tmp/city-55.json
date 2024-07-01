@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "51.45",
+        "longitude": "1.15",
+        "geo": "51.45, 1.15",
+        "city": "Oxford",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "67.51",
+        "longitude": "20.13",
+        "geo": "67.51, 20.13",
+        "city": "Kiruna",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "23.54",
+        "longitude": "29.27",
+        "geo": "23.54, 29.27",
+        "city": "Polokwane",
+        "province_icon": "",
+        "province": "Limpopo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "37.471",
+        "longitude": "122.251",
+        "geo": "37.47, 122.25a",
+        "city": "San Francisco",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "4.531",
+        "longitude": "114.571",
+        "geo": "4.53, 114.57a",
+        "city": "Bandar Seri Begawan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png",
+        "country": "Brunei"
+    }
+]

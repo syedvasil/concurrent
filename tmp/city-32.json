@@ -1,0 +1,51 @@
+[
+    {
+        "latitude": "33.361",
+        "longitude": "73.021",
+        "geo": "33.36, 73.02a",
+        "city": "Rawalpindi",
+        "province_icon": "",
+        "province": "Punjab",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "52.10",
+        "geo": "52.10, 4.29",
+        "city": "Leiden",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_Zuid-Holland.svg/23px-Flag_Zuid-Holland.svg.png",
+        "province": "South Holland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "41.531",
+        "longitude": "87.381",
+        "geo": "41.53, 87.38a",
+        "city": "Chicago",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/23px-Flag_of_Illinois.svg.png",
+        "province": "Illinois",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "36.04",
+        "longitude": "136.13",
+        "geo": "36.04, 136.13",
+        "city": "Fukui",
+        "province_icon": "",
+        "province": "Fukui",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "48.081",
+        "longitude": "11.341",
+        "geo": "48.08, 11.34a",
+        "city": "Munich",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Bavaria_%28lozengy%29.svg/23px-Flag_of_Bavaria_%28lozengy%29.svg.png",
+        "province": "Bavaria",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    }
+]

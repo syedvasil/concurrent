@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "43.04",
+        "longitude": "141.21",
+        "geo": "43.04, 141.21",
+        "city": "Sapporo",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "50.22",
+        "longitude": "4.09",
+        "geo": "50.22, 4.09",
+        "city": "Plymouth",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "52.08",
+        "longitude": "106.41",
+        "geo": "52.08, 106.41",
+        "city": "Saskatoon",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/23px-Flag_of_Saskatchewan.svg.png",
+        "province": "Saskatchewan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "27.421",
+        "longitude": "85.201",
+        "geo": "27.42, 85.20a",
+        "city": "Kathmandu",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png",
+        "country": "Nepal"
+    },
+    {
+        "latitude": "43.20",
+        "longitude": "145.35",
+        "geo": "43.20, 145.35",
+        "city": "Nemuro",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

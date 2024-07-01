@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "50.54",
+        "longitude": "1.24",
+        "geo": "50.54, 1.24",
+        "city": "Southampton",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "26.51",
+        "longitude": "80.57",
+        "geo": "26.51, 80.57",
+        "city": "Lucknow",
+        "province_icon": "",
+        "province": "Uttar Pradesh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "10.17",
+        "longitude": "123.54",
+        "geo": "10.17, 123.54",
+        "city": "Cebu City",
+        "province_icon": "",
+        "province": "Cebu",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    },
+    {
+        "latitude": "53.13",
+        "longitude": "6.33",
+        "geo": "53.13, 6.33",
+        "city": "Groningen",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Groningen.svg/23px-Flag_of_Groningen.svg.png",
+        "province": "Groningen",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "27.09",
+        "longitude": "109.26",
+        "geo": "27.09, 109.26",
+        "city": "Hanga Roa",
+        "province_icon": "",
+        "province": "Easter Island",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    }
+]

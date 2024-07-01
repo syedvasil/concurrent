@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "20.01",
+        "longitude": "75.49",
+        "geo": "20.01, 75.49",
+        "city": "Santiago de Cuba",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png",
+        "country": "Cuba"
+    },
+    {
+        "latitude": "21.33",
+        "longitude": "39.10",
+        "geo": "21.33, 39.10",
+        "city": "Jeddah",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "country": "Saudi Arabia"
+    },
+    {
+        "latitude": "45.30",
+        "longitude": "73.34",
+        "geo": "45.30, 73.34",
+        "city": "Montreal",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/23px-Flag_of_Quebec.svg.png",
+        "province": "Quebec",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "38.07",
+        "longitude": "13.22",
+        "geo": "38.07, 13.22",
+        "city": "Palermo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Sicily_%28revised%29.svg/23px-Flag_of_Sicily_%28revised%29.svg.png",
+        "province": "Sicily",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "49.51",
+        "longitude": "24.01",
+        "geo": "49.51, 24.01",
+        "city": "Lviv",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Lviv_Oblast.svg/23px-Flag_of_Lviv_Oblast.svg.png",
+        "province": "Lviv Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "country": "Ukraine"
+    }
+]

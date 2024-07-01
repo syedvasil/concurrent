@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "8.331",
+        "longitude": "125.351",
+        "geo": "8.33, 125.35a",
+        "city": "Dili",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png",
+        "country": "Timor-Leste"
+    },
+    {
+        "latitude": "44.15",
+        "longitude": "72.34",
+        "geo": "44.15, 72.34",
+        "city": "Montpelier",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/23px-Flag_of_Vermont.svg.png",
+        "province": "Vermont",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "35.27",
+        "longitude": "139.38",
+        "geo": "35.27, 139.38",
+        "city": "Yokohama",
+        "province_icon": "",
+        "province": "Kanagawa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "59.26",
+        "longitude": "24.45",
+        "geo": "59.26, 24.45",
+        "city": "Tallinn",
+        "province_icon": "",
+        "province": "Harju County",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+        "country": "Estonia"
+    },
+    {
+        "latitude": "53.32",
+        "longitude": "113.30",
+        "geo": "53.32, 113.30",
+        "city": "Edmonton",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/23px-Flag_of_Alberta.svg.png",
+        "province": "Alberta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    }
+]

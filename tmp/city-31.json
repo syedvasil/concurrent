@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "47.26",
+        "longitude": "123.27",
+        "geo": "47.26, 123.27",
+        "city": "Qiqihar",
+        "province_icon": "",
+        "province": "Heilongjiang",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "42.21",
+        "longitude": "71.04",
+        "geo": "42.21, 71.04",
+        "city": "Boston",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/23px-Flag_of_Massachusetts.svg.png",
+        "province": "Massachusetts",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "33.34",
+        "longitude": "133.32",
+        "geo": "33.34, 133.32",
+        "city": "Kōchi",
+        "province_icon": "",
+        "province": "Kōchi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "41.10",
+        "longitude": "8.37",
+        "geo": "41.10, 8.37",
+        "city": "Porto",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "12.471",
+        "longitude": "45.141",
+        "geo": "12.47, 45.14a",
+        "city": "Mamoudzou",
+        "province_icon": "",
+        "province": "Mayotte",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "3.52",
+        "longitude": "11.31",
+        "geo": "3.52, 11.31",
+        "city": "Yaoundé",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+        "country": "Cameroon"
+    },
+    {
+        "latitude": "22.09",
+        "longitude": "100.51",
+        "geo": "22.09, 100.51",
+        "city": "San Luis Potosí",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_San_Luis_Potosi.svg/23px-Flag_of_San_Luis_Potosi.svg.png",
+        "province": "San Luis Potosí",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "60.59",
+        "longitude": "25.39",
+        "geo": "60.59, 25.39",
+        "city": "Lahti",
+        "province_icon": "",
+        "province": "Päijänne Tavastia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "33.57",
+        "longitude": "25.36",
+        "geo": "33.57, 25.36",
+        "city": "Port Elizabeth",
+        "province_icon": "",
+        "province": "Eastern Cape",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "63.061",
+        "longitude": "21.371",
+        "geo": "63.06, 21.37a",
+        "city": "Vaasa",
+        "province_icon": "",
+        "province": "Ostrobothnia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    }
+]

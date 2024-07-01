@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "48.51",
+        "longitude": "2.21",
+        "geo": "48.51, 2.21",
+        "city": "Paris",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_%C3%8Ele-de-France.svg/23px-Flag_of_%C3%8Ele-de-France.svg.png",
+        "province": "Île-de-France",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "65.01",
+        "longitude": "25.28",
+        "geo": "65.01, 25.28",
+        "city": "Oulu",
+        "province_icon": "",
+        "province": "Northern Ostrobothnia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "22.40",
+        "longitude": "50.25",
+        "geo": "22.40, 50.25",
+        "city": "Assis",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/23px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "province": "São Paulo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "8.34",
+        "longitude": "16.05",
+        "geo": "8.34, 16.05",
+        "city": "Moundou",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+        "country": "Chad"
+    },
+    {
+        "latitude": "52.061",
+        "longitude": "5.071",
+        "geo": "52.06, 5.07a",
+        "city": "Utrecht",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Utrecht_%28province%29-Flag.svg/23px-Utrecht_%28province%29-Flag.svg.png",
+        "province": "Utrecht",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    }
+]

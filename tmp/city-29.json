@@ -1,0 +1,52 @@
+
+    {
+        "latitude": "38.43",
+        "longitude": "62.16",
+        "geo": "38.43, 62.16",
+        "city": "Bahía Blanca",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg/23px-Bandera_de_la_Provincia_de_Buenos_Aires.svg.png",
+        "province": "Buenos Aires Province",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "59.51",
+        "longitude": "17.39",
+        "geo": "59.51, 17.39",
+        "city": "Uppsala",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "30.55",
+        "longitude": "75.51",
+        "geo": "30.55, 75.51",
+        "city": "Ludhiana",
+        "province_icon": "",
+        "province": "Punjab",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "32.39",
+        "longitude": "16.55",
+        "geo": "32.39, 16.55",
+        "city": "Funchal",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/23px-Flag_of_Madeira.svg.png",
+        "province": "Madeira",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "4.111",
+        "longitude": "73.311",
+        "geo": "4.11, 73.31a",
+        "city": "Malé",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png",
+        "country": "Maldives"
+    }
+]

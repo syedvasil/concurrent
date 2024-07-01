@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "25.02",
+        "longitude": "121.38",
+        "geo": "25.02, 121.38",
+        "city": "Taipei",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+        "country": "Republic of China (Taiwan)"
+    },
+    {
+        "latitude": "7.18",
+        "longitude": "80.38",
+        "geo": "7.18, 80.38",
+        "city": "Kandy",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "country": "Sri Lanka"
+    },
+    {
+        "latitude": "45.24",
+        "longitude": "72.41",
+        "geo": "45.24, 72.41",
+        "city": "Puerto Aisén",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "12.311",
+        "longitude": "70.021",
+        "geo": "12.31, 70.02a",
+        "city": "Oranjestad",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/23px-Flag_of_Aruba.svg.png",
+        "province": "Aruba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "37.52",
+        "longitude": "112.34",
+        "geo": "37.52, 112.34",
+        "city": "Taiyuan",
+        "province_icon": "",
+        "province": "Shanxi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    }
+]

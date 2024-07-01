@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "33.43",
+        "longitude": "73.04",
+        "geo": "33.43, 73.04",
+        "city": "Islamabad",
+        "province_icon": "",
+        "province": "Islamabad Capital Territory",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "6.14",
+        "longitude": "75.35",
+        "geo": "6.14, 75.35",
+        "city": "Medellín",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    },
+    {
+        "latitude": "48.231",
+        "longitude": "89.151",
+        "geo": "48.23, 89.15a",
+        "city": "Thunder Bay",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "36.50",
+        "longitude": "174.44",
+        "geo": "36.50, 174.44",
+        "city": "Auckland",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "43.18",
+        "longitude": "5.22",
+        "geo": "43.18, 5.22",
+        "city": "Marseille",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Provence-Alpes-Cote_dAzur.svg/23px-Flag_of_Provence-Alpes-Cote_dAzur.svg.png",
+        "province": "Provence-Alpes-Côte d'Azur",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    }
+]

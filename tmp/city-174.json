@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "41.29",
+        "longitude": "81.40",
+        "geo": "41.29, 81.40",
+        "city": "Cleveland",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/23px-Flag_of_Ohio.svg.png",
+        "province": "Ohio",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "37.00",
+        "longitude": "35.19",
+        "geo": "37.00, 35.19",
+        "city": "Adana",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "39.06",
+        "longitude": "94.35",
+        "geo": "39.06, 94.35",
+        "city": "Kansas City",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/23px-Flag_of_Missouri.svg.png",
+        "province": "Missouri",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "4.51",
+        "longitude": "31.36",
+        "geo": "4.51, 31.36",
+        "city": "Juba",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png",
+        "country": "South Sudan"
+    },
+    {
+        "latitude": "12.07",
+        "longitude": "68.56",
+        "geo": "12.07, 68.56",
+        "city": "Willemstad",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/23px-Flag_of_Cura%C3%A7ao.svg.png",
+        "province": "Curaçao",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    }
+]

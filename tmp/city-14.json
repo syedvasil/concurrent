@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "63.171",
+        "longitude": "18.441",
+        "geo": "63.17, 18.44a",
+        "city": "Örnsköldsvik",
+        "province_icon": "",
+        "province": "Ångermanland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "6.56",
+        "longitude": "79.51",
+        "geo": "6.56, 79.51",
+        "city": "Colombo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "country": "Sri Lanka"
+    },
+    {
+        "latitude": "24.48",
+        "longitude": "107.23",
+        "geo": "24.48, 107.23",
+        "city": "Culiacán",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Sinaloa.svg/23px-Flag_of_Sinaloa.svg.png",
+        "province": "Sinaloa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "29.06",
+        "longitude": "110.57",
+        "geo": "29.06, 110.57",
+        "city": "Hermosillo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Sonora.svg/23px-Flag_of_Sonora.svg.png",
+        "province": "Sonora",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "22.34",
+        "longitude": "88.22",
+        "geo": "22.34, 88.22",
+        "city": "Kolkata (Calcutta)",
+        "province_icon": "",
+        "province": "West Bengal",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    }
+]

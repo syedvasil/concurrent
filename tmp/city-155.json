@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "41.43",
+        "longitude": "44.47",
+        "geo": "41.43, 44.47",
+        "city": "Tbilisi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+        "country": "Georgia"
+    },
+    {
+        "latitude": "38.28",
+        "longitude": "23.36",
+        "geo": "38.28, 23.36",
+        "city": "Halkis",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "country": "Greece"
+    },
+    {
+        "latitude": "35.07",
+        "longitude": "89.58",
+        "geo": "35.07, 89.58",
+        "city": "Memphis",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/23px-Flag_of_Tennessee.svg.png",
+        "province": "Tennessee",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "39.56",
+        "longitude": "32.52",
+        "geo": "39.56, 32.52",
+        "city": "Ankara",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "10.55",
+        "longitude": "37.03",
+        "geo": "10.55, 37.03",
+        "city": "Aracaju",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/22px-Bandeira_de_Sergipe.svg.png",
+        "province": "Sergipe",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

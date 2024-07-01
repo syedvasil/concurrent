@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "35.11",
+        "longitude": "129.05",
+        "geo": "35.11, 129.05",
+        "city": "Busan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "country": "South Korea"
+    },
+    {
+        "latitude": "31.38",
+        "longitude": "74.52",
+        "geo": "31.38, 74.52",
+        "city": "Amritsar",
+        "province_icon": "",
+        "province": "Punjab",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "17.181",
+        "longitude": "62.441",
+        "geo": "17.18, 62.44a",
+        "city": "Basseterre",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+        "country": "Saint Kitts and Nevis"
+    },
+    {
+        "latitude": "14.54",
+        "longitude": "92.16",
+        "geo": "14.54, 92.16",
+        "city": "Tapachula",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Chiapas.svg/23px-Flag_of_Chiapas.svg.png",
+        "province": "Chiapas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "59.17",
+        "longitude": "11.12",
+        "geo": "59.17, 11.12",
+        "city": "Sarpsborg",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

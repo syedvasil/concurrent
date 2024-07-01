@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "56.07",
+        "longitude": "101.36",
+        "geo": "56.07, 101.36",
+        "city": "Bratsk",
+        "province_icon": "",
+        "province": "Irkutsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "62.27",
+        "longitude": "114.24",
+        "geo": "62.27, 114.24",
+        "city": "Yellowknife",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Northwest_Territories.svg/23px-Flag_of_the_Northwest_Territories.svg.png",
+        "province": "Northwest Territories",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "32.37",
+        "longitude": "41.02",
+        "geo": "32.37, 41.02",
+        "city": "Karbala",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "country": "Iraq"
+    },
+    {
+        "latitude": "9.39",
+        "longitude": "123.51",
+        "geo": "9.39, 123.51",
+        "city": "Tagbilaran",
+        "province_icon": "",
+        "province": "Northern Samar",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    },
+    {
+        "latitude": "52.571",
+        "longitude": "1.081",
+        "geo": "52.57, 1.08a",
+        "city": "Nottingham",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    }
+]

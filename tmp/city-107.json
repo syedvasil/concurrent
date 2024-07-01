@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "70.12",
+        "longitude": "148.31",
+        "geo": "70.12, 148.31",
+        "city": "Deadhorse",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "41.00",
+        "longitude": "71.40",
+        "geo": "41.00, 71.40",
+        "city": "Namangan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+        "country": "Uzbekistan"
+    },
+    {
+        "latitude": "39.17",
+        "longitude": "76.37",
+        "geo": "39.17, 76.37",
+        "city": "Baltimore",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/23px-Flag_of_Maryland.svg.png",
+        "province": "Maryland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "19.26",
+        "longitude": "99.08",
+        "geo": "19.26, 99.08",
+        "city": " Mexico City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "65.41",
+        "longitude": "18.06",
+        "geo": "65.41, 18.06",
+        "city": "Akureyri",
+        "province_icon": "",
+        "province": "Northeastern Region",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+        "country": "Iceland"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "26.28",
+        "longitude": "80.20",
+        "geo": "26.28, 80.20",
+        "city": "Kanpur",
+        "province_icon": "",
+        "province": "Uttar Pradesh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "31.37",
+        "longitude": "65.43",
+        "geo": "31.37, 65.43",
+        "city": "Kandahar",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png",
+        "country": "Afghanistan"
+    },
+    {
+        "latitude": "22.341",
+        "longitude": "17.051",
+        "geo": "22.34, 17.05a",
+        "city": "Windhoek",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+        "country": "Namibia"
+    },
+    {
+        "latitude": "30.351",
+        "longitude": "114.171",
+        "geo": "30.35, 114.17a",
+        "city": "Wuhan",
+        "province_icon": "",
+        "province": "Hubei",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "39.10",
+        "longitude": "75.32",
+        "geo": "39.10, 75.32",
+        "city": "Dover",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/23px-Flag_of_Delaware.svg.png",
+        "province": "Delaware",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

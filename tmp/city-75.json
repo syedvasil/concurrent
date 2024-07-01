@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "29.58",
+        "longitude": "32.33",
+        "geo": "29.58, 32.33",
+        "city": "Suez",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "country": "Egypt"
+    },
+    {
+        "latitude": "35.28",
+        "longitude": "44.19",
+        "geo": "35.28, 44.19",
+        "city": "Kirkuk",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "country": "Iraq"
+    },
+    {
+        "latitude": "6.49",
+        "longitude": "5.17",
+        "geo": "6.49, 5.17",
+        "city": "Yamoussoukro",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+        "country": "Ivory Coast"
+    },
+    {
+        "latitude": "20.10",
+        "longitude": "57.30",
+        "geo": "20.10, 57.30",
+        "city": "Port Louis",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png",
+        "country": "Mauritius"
+    },
+    {
+        "latitude": "13.22",
+        "longitude": "103.52",
+        "geo": "13.22, 103.52",
+        "city": "Siem Reap",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+        "country": "Cambodia"
+    }
+]

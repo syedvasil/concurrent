@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "14.011",
+        "longitude": "60.591",
+        "geo": "14.01, 60.59a",
+        "city": "Castries",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png",
+        "country": "Saint Lucia"
+    },
+    {
+        "latitude": "21.07",
+        "longitude": "101.41",
+        "geo": "21.07, 101.41",
+        "city": "León",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guanajuato.png/23px-Flag_of_Guanajuato.png",
+        "province": "Guanajuato",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "46.14",
+        "longitude": "63.09",
+        "geo": "46.14, 63.09",
+        "city": "Charlottetown",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/23px-Flag_of_Prince_Edward_Island.svg.png",
+        "province": "Prince Edward Island",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "28.01",
+        "longitude": "153.24",
+        "geo": "28.01, 153.24",
+        "city": "Gold Coast",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Queensland.svg/23px-Flag_of_Queensland.svg.png",
+        "province": "Queensland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "43.301",
+        "longitude": "16.261",
+        "geo": "43.30, 16.26a",
+        "city": "Split",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+        "country": "Croatia"
+    }
+]

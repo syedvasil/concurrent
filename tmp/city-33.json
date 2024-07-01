@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "22.28",
+        "longitude": "68.56",
+        "geo": "22.28, 68.56",
+        "city": "Calama",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "43.36",
+        "longitude": "1.27",
+        "geo": "43.36, 1.27",
+        "city": "Toulouse",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg/23px-Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg.png",
+        "province": "Midi-Pyrénées",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "34.36",
+        "longitude": "58.23",
+        "geo": "34.36, 58.23",
+        "city": " Buenos Aires",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "41.54",
+        "longitude": "12.30",
+        "geo": "41.54, 12.30",
+        "city": "Rome",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Lazio.svg/23px-Flag_of_Lazio.svg.png",
+        "province": "Lazio",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "36.48",
+        "longitude": "10.11",
+        "geo": "36.48, 10.11",
+        "city": "Tunis",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+        "country": "Tunisia"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "12.07",
+        "longitude": "15.03",
+        "geo": "12.07, 15.03",
+        "city": "N'Djamena",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+        "country": "Chad"
+    },
+    {
+        "latitude": "16.30",
+        "longitude": "180.00",
+        "geo": "16.30, 180.00",
+        "city": "Rabi Island",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+        "country": "Fiji"
+    },
+    {
+        "latitude": "17.48",
+        "longitude": "63.10",
+        "geo": "17.48, 63.10",
+        "city": "Santa Cruz de la Sierra",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
+        "country": "Bolivia"
+    },
+    {
+        "latitude": "55.01",
+        "longitude": "82.56",
+        "geo": "55.01, 82.56",
+        "city": "Novosibirsk",
+        "province_icon": "",
+        "province": "Novosibirsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "67.08",
+        "longitude": "20.40",
+        "geo": "67.08, 20.40",
+        "city": "Gällivare",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    }
+]

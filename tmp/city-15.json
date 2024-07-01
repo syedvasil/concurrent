@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "50.49",
+        "longitude": "1.05",
+        "geo": "50.49, 1.05",
+        "city": "Portsmouth",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "38.211",
+        "longitude": "81.381",
+        "geo": "38.21, 81.38a",
+        "city": "Charleston",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/23px-Flag_of_West_Virginia.svg.png",
+        "province": "West Virginia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "9.59",
+        "longitude": "83.02",
+        "geo": "9.59, 83.02",
+        "city": "Limon",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+        "country": "Costa Rica"
+    },
+    {
+        "latitude": "2.12",
+        "longitude": "102.15",
+        "geo": "2.12, 102.15",
+        "city": "Malacca Town",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Malacca.svg/23px-Flag_of_Malacca.svg.png",
+        "province": "Malacca",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "67.18",
+        "longitude": "14.33",
+        "geo": "67.18, 14.33",
+        "city": "Bodø",
+        "province_icon": "",
+        "province": "Nordland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

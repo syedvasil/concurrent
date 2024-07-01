@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "25.47",
+        "longitude": "80.13",
+        "geo": "25.47, 80.13",
+        "city": "Miami",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png",
+        "province": "Florida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "31.51",
+        "longitude": "116.36",
+        "geo": "31.51, 116.36",
+        "city": "Ensenada",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/23px-Flag_of_Baja_California.svg.png",
+        "province": "Baja California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "44.191",
+        "longitude": "69.471",
+        "geo": "44.19, 69.47a",
+        "city": "Augusta",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/23px-Flag_of_Maine.svg.png",
+        "province": "Maine",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "29.19",
+        "longitude": "27.29",
+        "geo": "29.19, 27.29",
+        "city": "Maseru",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+        "country": "Lesotho"
+    },
+    {
+        "latitude": "20.28",
+        "longitude": "54.37",
+        "geo": "20.28, 54.37",
+        "city": "Campo Grande",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/22px-Bandeira_de_Mato_Grosso_do_Sul.svg.png",
+        "province": "Mato Grosso do Sul",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

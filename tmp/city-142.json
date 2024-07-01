@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "34.32",
+        "longitude": "69.10",
+        "geo": "34.32, 69.10",
+        "city": "Kabul",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png",
+        "country": "Afghanistan"
+    },
+    {
+        "latitude": "53.21",
+        "longitude": "6.16",
+        "geo": "53.21, 6.16",
+        "city": "Dublin",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Leinster.svg/23px-Flag_of_Leinster.svg.png",
+        "province": "Leinster",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+        "country": "Ireland"
+    },
+    {
+        "latitude": "55.05",
+        "longitude": "67.05",
+        "geo": "55.05, 67.05",
+        "city": "Puerto Toro",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "33.56",
+        "longitude": "18.25",
+        "geo": "33.56, 18.25",
+        "city": "Cape Town",
+        "province_icon": "",
+        "province": "Western Cape",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "37.581",
+        "longitude": "23.431",
+        "geo": "37.58, 23.43a",
+        "city": "Athens",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "country": "Greece"
+    }
+]

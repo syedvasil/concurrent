@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "20.43",
+        "longitude": "103.24",
+        "geo": "20.43, 103.24",
+        "city": "Zapopan",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/23px-Flag_of_Jalisco.svg.png",
+        "province": "Jalisco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "47.13",
+        "longitude": "1.33",
+        "geo": "47.13, 1.33",
+        "city": "Nantes",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Pays-de-la-Loire.svg/23px-Flag_of_Pays-de-la-Loire.svg.png",
+        "province": "Pays de la Loire",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "32.38",
+        "longitude": "115.33",
+        "geo": "32.38, 115.33",
+        "city": "El Centro",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "32.55",
+        "longitude": "151.45",
+        "geo": "32.55, 151.45",
+        "city": "Newcastle",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/23px-Flag_of_New_South_Wales.svg.png",
+        "province": "New South Wales",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "57.37",
+        "longitude": "39.51",
+        "geo": "57.37, 39.51",
+        "city": "Yaroslavl",
+        "province_icon": "",
+        "province": "Yaroslavl Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

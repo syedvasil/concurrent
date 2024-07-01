@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "11.35",
+        "longitude": "43.09",
+        "geo": "11.35, 43.09",
+        "city": "Djibouti",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png",
+        "country": "Djibouti"
+    },
+    {
+        "latitude": "4.55",
+        "longitude": "52.20",
+        "geo": "4.55, 52.20",
+        "city": "Cayenne",
+        "province_icon": "",
+        "province": "French Guiana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "3.23",
+        "longitude": "29.22",
+        "geo": "3.23, 29.22",
+        "city": "Bujumbura",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png",
+        "country": "Burundi"
+    },
+    {
+        "latitude": "22.22",
+        "longitude": "91.48",
+        "geo": "22.22, 91.48",
+        "city": "Chittagong",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+        "country": "Bangladesh"
+    },
+    {
+        "latitude": "49.53",
+        "longitude": "119.30",
+        "geo": "49.53, 119.30",
+        "city": "Kelowna",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/23px-Flag_of_British_Columbia.svg.png",
+        "province": "British Columbia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    }
+]

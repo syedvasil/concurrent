@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "47.37",
+        "longitude": "122.20",
+        "geo": "47.37, 122.20",
+        "city": "Seattle",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/23px-Flag_of_Washington.svg.png",
+        "province": "Washington",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "34.41",
+        "longitude": "135.12",
+        "geo": "34.41, 135.12",
+        "city": "Kōbe",
+        "province_icon": "",
+        "province": "Hyogo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "60.43",
+        "longitude": "135.03",
+        "geo": "60.43, 135.03",
+        "city": "Whitehorse",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Yukon.svg/23px-Flag_of_Yukon.svg.png",
+        "province": "Yukon",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "43.501",
+        "longitude": "87.361",
+        "geo": "43.50, 87.36a",
+        "city": "Ürümqi",
+        "province_icon": "",
+        "province": "Xinjiang",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "37.55",
+        "longitude": "139.02",
+        "geo": "37.55, 139.02",
+        "city": "Niigata",
+        "province_icon": "",
+        "province": "Niigata",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

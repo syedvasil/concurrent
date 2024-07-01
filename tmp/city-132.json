@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "41.35",
+        "longitude": "93.37",
+        "geo": "41.35, 93.37",
+        "city": "Des Moines",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/22px-Flag_of_Iowa.svg.png",
+        "province": "Iowa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "41.49",
+        "longitude": "71.25",
+        "geo": "41.49, 71.25",
+        "city": "Providence",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/19px-Flag_of_Rhode_Island.svg.png",
+        "province": "Rhode Island",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "3.431",
+        "longitude": "38.331",
+        "geo": "3.43, 38.33a",
+        "city": "Fortaleza",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/22px-Bandeira_do_Cear%C3%A1.svg.png",
+        "province": "Ceará",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "37.46",
+        "longitude": "140.28",
+        "geo": "37.46, 140.28",
+        "city": "Fukushima",
+        "province_icon": "",
+        "province": "Fukushima",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "25.51",
+        "longitude": "25.38",
+        "geo": "25.51, 25.38",
+        "city": "Mafikeng",
+        "province_icon": "",
+        "province": "North West",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    }
+]

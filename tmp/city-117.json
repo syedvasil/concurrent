@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "52.55",
+        "longitude": "1.28",
+        "geo": "52.55, 1.28",
+        "city": "Derby",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "45.45",
+        "longitude": "126.38",
+        "geo": "45.45, 126.38",
+        "city": "Harbin",
+        "province_icon": "",
+        "province": "Heilongjiang",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "33.27",
+        "longitude": "70.40",
+        "geo": "33.27, 70.40",
+        "city": "Santiago",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "40.40",
+        "longitude": "73.56",
+        "geo": "40.40, 73.56",
+        "city": "New York City",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/23px-Flag_of_New_York.svg.png",
+        "province": "New York",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "47.28",
+        "longitude": "19.03",
+        "geo": "47.28, 19.03",
+        "city": "Budapest",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+        "country": "Hungary"
+    }
+]

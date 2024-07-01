@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "11.45",
+        "longitude": "43.12",
+        "geo": "11.45, 43.12",
+        "city": "Moroni",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png",
+        "country": "Comoros"
+    },
+    {
+        "latitude": "53.31",
+        "longitude": "49.25",
+        "geo": "53.31, 49.25",
+        "city": "Tolyatti",
+        "province_icon": "",
+        "province": "Samara Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "66.30",
+        "longitude": "25.44",
+        "geo": "66.30, 25.44",
+        "city": "Rovaniemi",
+        "province_icon": "",
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "31.151",
+        "longitude": "32.171",
+        "geo": "31.15, 32.17a",
+        "city": "Port Said",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "country": "Egypt"
+    },
+    {
+        "latitude": "21.08",
+        "longitude": "175.12",
+        "geo": "21.08, 175.12",
+        "city": "Nukuʻalofa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png",
+        "country": "Tonga"
+    }
+]

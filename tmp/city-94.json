@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "4.24",
+        "longitude": "114.00",
+        "geo": "4.24, 114.00",
+        "city": "Miri",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_of_Sarawak.svg/23px-Flag_of_Sarawak.svg.png",
+        "province": "Sarawak",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "23.39",
+        "longitude": "70.24",
+        "geo": "23.39, 70.24",
+        "city": "Antofagasta",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "25.17",
+        "longitude": "57.38",
+        "geo": "25.17, 57.38",
+        "city": "Asunción",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+        "country": "Paraguay"
+    },
+    {
+        "latitude": "45.25",
+        "longitude": "141.40",
+        "geo": "45.25, 141.40",
+        "city": "Wakkanai",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "20.19",
+        "longitude": "40.20",
+        "geo": "20.19, 40.20",
+        "city": "Vitória",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/22px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png",
+        "province": "Espírito Santo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

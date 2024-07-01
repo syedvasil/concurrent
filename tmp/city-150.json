@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "9.02",
+        "longitude": "38.44",
+        "geo": "9.02, 38.44",
+        "city": "Addis Ababa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png",
+        "country": "Ethiopia"
+    },
+    {
+        "latitude": "22.55",
+        "longitude": "43.12",
+        "geo": "22.55, 43.12",
+        "city": "Rio de Janeiro",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/22px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png",
+        "province": "Rio de Janeiro",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "55.47",
+        "longitude": "49.08",
+        "geo": "55.47, 49.08",
+        "city": "Kazan",
+        "province_icon": "",
+        "province": "Republic of Tatarstan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "21.10",
+        "longitude": "72.50",
+        "geo": "21.10, 72.50",
+        "city": "Surat",
+        "province_icon": "",
+        "province": "Gujarat",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "18.55",
+        "longitude": "48.17",
+        "geo": "18.55, 48.17",
+        "city": "Uberlândia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/22px-Bandeira_de_Minas_Gerais.svg.png",
+        "province": "Minas Gerais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

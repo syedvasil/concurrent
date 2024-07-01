@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "32.00",
+        "longitude": "44.22",
+        "geo": "32.00, 44.22",
+        "city": "Najaf",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "country": "Iraq"
+    },
+    {
+        "latitude": "43.171",
+        "longitude": "76.541",
+        "geo": "43.17, 76.54a",
+        "city": "Almaty",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+        "country": "Kazakhstan"
+    },
+    {
+        "latitude": "21.19",
+        "longitude": "157.50",
+        "geo": "21.19, 157.50",
+        "city": "Honolulu",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/23px-Flag_of_Hawaii.svg.png",
+        "province": "Hawaii",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "35.18",
+        "longitude": "149.07",
+        "geo": "35.18, 149.07",
+        "city": "Canberra",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_the_Australian_Capital_Territory.svg/23px-Flag_of_the_Australian_Capital_Territory.svg.png",
+        "province": "Australian Capital Territory",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "36.34",
+        "longitude": "136.39",
+        "geo": "36.34, 136.39",
+        "city": "Kanazawa",
+        "province_icon": "",
+        "province": "Ishikawa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

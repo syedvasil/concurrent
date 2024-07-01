@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "8.59",
+        "longitude": "79.31",
+        "geo": "8.59, 79.31",
+        "city": "Panama City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+        "country": "Panama"
+    },
+    {
+        "latitude": "9.31",
+        "longitude": "147.13",
+        "geo": "9.31, 147.13",
+        "city": "Port Moresby",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+        "country": "Papua New Guinea"
+    },
+    {
+        "latitude": "14.21",
+        "longitude": "100.34",
+        "geo": "14.21, 100.34",
+        "city": "Ayutthaya",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "64.32",
+        "longitude": "40.32",
+        "geo": "64.32, 40.32",
+        "city": "Arkhangelsk",
+        "province_icon": "",
+        "province": "Arkhangelsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "14.361",
+        "longitude": "61.051",
+        "geo": "14.36, 61.05a",
+        "city": "Fort-de-France",
+        "province_icon": "",
+        "province": "Martinique",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    }
+]

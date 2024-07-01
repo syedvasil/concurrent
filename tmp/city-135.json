@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "53.57",
+        "longitude": "1.4",
+        "geo": "53.57, 1.4",
+        "city": "York",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "7.45",
+        "longitude": "8.49",
+        "geo": "7.45, 8.49",
+        "city": "Nzérékoré",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+        "country": "Guinea"
+    },
+    {
+        "latitude": "15.481",
+        "longitude": "47.521",
+        "geo": "15.48, 47.52a",
+        "city": "Brasília",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/22px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
+        "province": "Distrito Federal",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "1.17",
+        "longitude": "103.50",
+        "geo": "1.17, 103.50",
+        "city": "Singapore",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+        "country": "Singapore"
+    },
+    {
+        "latitude": "52.29",
+        "longitude": "1.54",
+        "geo": "52.29, 1.54",
+        "city": "Birmingham",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "60.181",
+        "longitude": "25.021",
+        "geo": "60.18, 25.02a",
+        "city": "Vantaa",
+        "province_icon": "",
+        "province": "Uusimaa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "66.43",
+        "longitude": "27.26",
+        "geo": "66.43, 27.26",
+        "city": "Kemijärvi",
+        "province_icon": "",
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "33.311",
+        "longitude": "36.181",
+        "geo": "33.31, 36.18a",
+        "city": "Damascus",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png",
+        "country": "Syria"
+    },
+    {
+        "latitude": "35.40",
+        "longitude": "138.34",
+        "geo": "35.40, 138.34",
+        "city": "Kōfu",
+        "province_icon": "",
+        "province": "Yamanashi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "37.47",
+        "longitude": "175.17",
+        "geo": "37.47, 175.17",
+        "city": "Hamilton",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "46.361",
+        "longitude": "112.021",
+        "geo": "46.36, 112.02a",
+        "city": "Helena",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/23px-Flag_of_Montana.svg.png",
+        "province": "Montana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "77.28",
+        "longitude": "69.14",
+        "geo": "77.28, 69.14",
+        "city": "Qaanaaq",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+        "province": "Greenland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "5.52",
+        "longitude": "55.10",
+        "geo": "5.52, 55.10",
+        "city": "Paramaribo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png",
+        "country": "Suriname"
+    },
+    {
+        "latitude": "25.34",
+        "longitude": "91.53",
+        "geo": "25.34, 91.53",
+        "city": "Shillong",
+        "province_icon": "",
+        "province": "Meghalaya",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "10.58",
+        "longitude": "74.48",
+        "geo": "10.58, 74.48",
+        "city": "Barranquilla",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    }
+]

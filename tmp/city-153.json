@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.08",
+        "longitude": "5.21",
+        "geo": "36.08, 5.21",
+        "city": "Gibraltar",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/23px-Flag_of_Gibraltar.svg.png",
+        "province": "Gibraltar",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "64.081",
+        "longitude": "21.561",
+        "geo": "64.08, 21.56a",
+        "city": "Reykjavík",
+        "province_icon": "",
+        "province": "Capital Region",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+        "country": "Iceland"
+    },
+    {
+        "latitude": "43.32",
+        "longitude": "172.37",
+        "geo": "43.32, 172.37",
+        "city": "Christchurch",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "51.40",
+        "longitude": "39.13",
+        "geo": "51.40, 39.13",
+        "city": "Voronezh",
+        "province_icon": "",
+        "province": "Voronezh Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "62.01",
+        "longitude": "6.46",
+        "geo": "62.01, 6.46",
+        "city": "Tórshavn",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+        "province": "Faroe Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "12.21",
+        "longitude": "1.32",
+        "geo": "12.21, 1.32",
+        "city": "Ouagadougou",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+        "country": "Burkina Faso"
+    },
+    {
+        "latitude": "5.47",
+        "longitude": "35.12",
+        "geo": "5.47, 35.12",
+        "city": "Natal",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/23px-Bandeira_do_Rio_Grande_do_Norte.svg.png",
+        "province": "Rio Grande do Norte",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "48.351",
+        "longitude": "7.451",
+        "geo": "48.35, 7.45a",
+        "city": "Strasbourg",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Alsace.svg/23px-Flag_of_Alsace.svg.png",
+        "province": "Alsace",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "45.17",
+        "longitude": "66.05",
+        "geo": "45.17, 66.05",
+        "city": "Saint John",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/23px-Flag_of_New_Brunswick.svg.png",
+        "province": "New Brunswick",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "58.001",
+        "longitude": "56.191",
+        "geo": "58.00, 56.19a",
+        "city": "Perm",
+        "province_icon": "",
+        "province": "Perm Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "18.29",
+        "longitude": "70.20",
+        "geo": "18.29, 70.20",
+        "city": "Arica",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "45.57",
+        "longitude": "66.40",
+        "geo": "45.57, 66.40",
+        "city": "Fredericton",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/23px-Flag_of_New_Brunswick.svg.png",
+        "province": "New Brunswick",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "14.47",
+        "longitude": "39.03",
+        "geo": "14.47, 39.03",
+        "city": "Ilhéus",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/23px-Bandeira_da_Bahia.svg.png",
+        "province": "Bahia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "62.15",
+        "longitude": "25.45",
+        "geo": "62.15, 25.45",
+        "city": "Jyväskylä",
+        "province_icon": "",
+        "province": "Central Finland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "14.59",
+        "longitude": "102.06",
+        "geo": "14.59, 102.06",
+        "city": "Nakhon Ratchasima",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    }
+]

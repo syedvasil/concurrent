@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "48.42",
+        "longitude": "44.31",
+        "geo": "48.42, 44.31",
+        "city": "Volgograd",
+        "province_icon": "",
+        "province": "Volgograd Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "52.24",
+        "longitude": "16.55",
+        "geo": "52.24, 16.55",
+        "city": "Poznań",
+        "province_icon": "",
+        "province": "Greater Poland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "country": "Poland"
+    },
+    {
+        "latitude": "34.16",
+        "longitude": "108.54",
+        "geo": "34.16, 108.54",
+        "city": "Xi'an",
+        "province_icon": "",
+        "province": "Shaanxi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "10.11",
+        "longitude": "68.00",
+        "geo": "10.11, 68.00",
+        "city": "Valencia",
+        "province_icon": "",
+        "province": "Carabobo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "50.051",
+        "longitude": "14.251",
+        "geo": "50.05, 14.25a",
+        "city": "Prague",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+        "country": "Czech Republic"
+    }
+]

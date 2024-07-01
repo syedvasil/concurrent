@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "11.51",
+        "longitude": "15.34",
+        "geo": "11.51, 15.34",
+        "city": "Bissau",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png",
+        "country": "Guinea-Bissau"
+    },
+    {
+        "latitude": "8.07",
+        "longitude": "79.02",
+        "geo": "8.07, 79.02",
+        "city": "Trujillo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "country": "Peru"
+    },
+    {
+        "latitude": "53.54",
+        "longitude": "27.34",
+        "geo": "53.54, 27.34",
+        "city": "Minsk",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png",
+        "country": "Belarus"
+    },
+    {
+        "latitude": "52.121",
+        "longitude": "0.071",
+        "geo": "52.12, 0.07a",
+        "city": "Cambridge",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "38.16",
+        "longitude": "140.52",
+        "geo": "38.16, 140.52",
+        "city": "Sendai",
+        "province_icon": "",
+        "province": "Miyagi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

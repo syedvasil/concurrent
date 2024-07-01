@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.481",
+        "longitude": "39.171",
+        "geo": "6.48, 39.17a",
+        "city": "Dar es Salaam",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+        "country": "Tanzania"
+    },
+    {
+        "latitude": "31.36",
+        "longitude": "130.33",
+        "geo": "31.36, 130.33",
+        "city": "Kagoshima",
+        "province_icon": "",
+        "province": "Kagoshima",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "36.48",
+        "longitude": "34.38",
+        "geo": "36.48, 34.38",
+        "city": "Mersin",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "36.431",
+        "longitude": "4.251",
+        "geo": "36.43, 4.25a",
+        "city": "Málaga",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/23px-Flag_of_Andaluc%C3%ADa.svg.png",
+        "province": "Andalusia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "43.08",
+        "longitude": "131.54",
+        "geo": "43.08, 131.54",
+        "city": "Vladivostok",
+        "province_icon": "",
+        "province": "Primorsky Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

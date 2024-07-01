@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "70.05",
+        "longitude": "27.53",
+        "geo": "70.05, 27.53",
+        "city": "Nuorgam",
+        "province_icon": "",
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "32.38",
+        "longitude": "51.39",
+        "geo": "32.38, 51.39",
+        "city": "Isfahan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "country": "Iran"
+    },
+    {
+        "latitude": "22.38",
+        "longitude": "120.16",
+        "geo": "22.38, 120.16",
+        "city": "Kaohsiung",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+        "country": "Republic of China (Taiwan)"
+    },
+    {
+        "latitude": "4.45",
+        "longitude": "7.00",
+        "geo": "4.45, 7.00",
+        "city": "Port Harcourt",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "78.55",
+        "longitude": "11.56",
+        "geo": "78.55, 11.56",
+        "city": "Ny-Ålesund",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "province": "Svalbard",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

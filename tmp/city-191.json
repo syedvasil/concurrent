@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "54.451",
+        "longitude": "55.581",
+        "geo": "54.45, 55.58a",
+        "city": "Ufa",
+        "province_icon": "",
+        "province": "Republic of Bashkortostan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "40.43",
+        "longitude": "74.04",
+        "geo": "40.43, 74.04",
+        "city": "Jersey City",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/23px-Flag_of_New_Jersey.svg.png",
+        "province": "New Jersey",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "41.231",
+        "longitude": "2.111",
+        "geo": "41.23, 2.11a",
+        "city": "Barcelona",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/23px-Flag_of_Catalonia.svg.png",
+        "province": "Catalonia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "30.40",
+        "longitude": "104.04",
+        "geo": "30.40, 104.04",
+        "city": "Chengdu",
+        "province_icon": "",
+        "province": "Sichuan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "32.40",
+        "longitude": "115.28",
+        "geo": "32.40, 115.28",
+        "city": "Mexicali",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Baja_California.svg/23px-Flag_of_Baja_California.svg.png",
+        "province": "Baja California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

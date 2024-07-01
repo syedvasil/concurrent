@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "41.20",
+        "longitude": "19.49",
+        "geo": "41.20, 19.49",
+        "city": "Tirana",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png",
+        "country": "Albania"
+    },
+    {
+        "latitude": "53.24",
+        "longitude": "2.59",
+        "geo": "53.24, 2.59",
+        "city": "Liverpool",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "39.44",
+        "longitude": "104.59",
+        "geo": "39.44, 104.59",
+        "city": "Denver",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/23px-Flag_of_Colorado.svg.png",
+        "province": "Colorado",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "5.08",
+        "longitude": "119.25",
+        "geo": "5.08, 119.25",
+        "city": "Makassar",
+        "province_icon": "",
+        "province": "South Sulawesi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "47.16",
+        "longitude": "11.23",
+        "geo": "47.16, 11.23",
+        "city": "Innsbruck",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Tirol.svg/23px-Flag_of_Tirol.svg.png",
+        "province": "Tyrol",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "country": "Austria"
+    }
+]

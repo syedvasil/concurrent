@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "64.51",
+        "longitude": "147.43",
+        "geo": "64.51, 147.43",
+        "city": "Fairbanks",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "23.33",
+        "longitude": "46.38",
+        "geo": "23.33, 46.38",
+        "city": "São Paulo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/23px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "province": "São Paulo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "43.10",
+        "longitude": "77.37",
+        "geo": "43.10, 77.37",
+        "city": "Rochester",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/23px-Flag_of_New_York.svg.png",
+        "province": "New York",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "61.081",
+        "longitude": "10.261",
+        "geo": "61.08, 10.26a",
+        "city": "Lillehammer",
+        "province_icon": "",
+        "province": "Oppland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "41.161",
+        "longitude": "173.171",
+        "geo": "41.16, 173.17a",
+        "city": "Nelson",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "10.301",
+        "longitude": "66.551",
+        "geo": "10.30, 66.55a",
+        "city": "Caracas",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "39.34",
+        "longitude": "2.39",
+        "geo": "39.34, 2.39",
+        "city": "Palma",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_the_Balearic_Islands.svg/23px-Flag_of_the_Balearic_Islands.svg.png",
+        "province": "Balearic Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "39.281",
+        "longitude": "31.141",
+        "geo": "39.28, 31.14a",
+        "city": "Flores Island",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/23px-Flag_of_the_Azores.svg.png",
+        "province": "Azores",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "0.321",
+        "longitude": "101.271",
+        "geo": "0.32, 101.27a",
+        "city": "Pekanbaru",
+        "province_icon": "",
+        "province": "Riau",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "31.46",
+        "longitude": "52.21",
+        "geo": "31.46, 52.21",
+        "city": "Pelotas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/22px-Bandeira_do_Rio_Grande_do_Sul.svg.png",
+        "province": "Rio Grande do Sul",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

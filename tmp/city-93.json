@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "51.32",
+        "longitude": "46.01",
+        "geo": "51.32, 46.01",
+        "city": "Saratov",
+        "province_icon": "",
+        "province": "Saratov Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "55.57",
+        "longitude": "3.11",
+        "geo": "55.57, 3.11",
+        "city": "Edinburgh",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png",
+        "province": "Scotland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "27.021",
+        "longitude": "14.261",
+        "geo": "27.02, 14.26a",
+        "city": "Sabha",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png",
+        "country": "Libya"
+    },
+    {
+        "latitude": "11.52",
+        "longitude": "55.30",
+        "geo": "11.52, 55.30",
+        "city": "Sinop",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/22px-Bandeira_de_Mato_Grosso.svg.png",
+        "province": "Mato Grosso",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "34.26",
+        "longitude": "150.53",
+        "geo": "34.26, 150.53",
+        "city": "Wollongong",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/23px-Flag_of_New_South_Wales.svg.png",
+        "province": "New South Wales",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "43.37",
+        "longitude": "116.12",
+        "geo": "43.37, 116.12",
+        "city": "Boise",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/19px-Flag_of_Idaho.svg.png",
+        "province": "Idaho",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+    {
+        "latitude": "7.43",
+        "longitude": "81.42",
+        "geo": "7.43, 81.42",
+        "city": "Batticaloa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "country": "Sri Lanka"
+    },
+    {
+        "latitude": "33.351",
+        "longitude": "130.241",
+        "geo": "33.35, 130.24a",
+        "city": "Fukuoka",
+        "province_icon": "",
+        "province": "Fukuoka",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "14.50",
+        "longitude": "91.31",
+        "geo": "14.50, 91.31",
+        "city": "Quetzaltenango",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png",
+        "country": "Guatemala"
+    },
+    {
+        "latitude": "13.26",
+        "longitude": "16.40",
+        "geo": "13.26, 16.40",
+        "city": "Serekunda",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+        "country": "Gambia"
+    }
+]

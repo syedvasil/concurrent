@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "56.441",
+        "longitude": "111.231",
+        "geo": "56.44, 111.23a",
+        "city": "Fort McMurray",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/23px-Flag_of_Alberta.svg.png",
+        "province": "Alberta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "34.111",
+        "longitude": "131.281",
+        "geo": "34.11, 131.28a",
+        "city": "Yamaguchi",
+        "province_icon": "",
+        "province": "Yamaguchi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "38.03",
+        "longitude": "114.30",
+        "geo": "38.03, 114.30",
+        "city": "Shijiazhuang",
+        "province_icon": "",
+        "province": "Hebei",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "9.56",
+        "longitude": "84.05",
+        "geo": "9.56, 84.05",
+        "city": "San José",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+        "country": "Costa Rica"
+    },
+    {
+        "latitude": "54.22",
+        "longitude": "18.38",
+        "geo": "54.22, 18.38",
+        "city": "Gdańsk",
+        "province_icon": "",
+        "province": "Pomeranian Voivodeship",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "country": "Poland"
+    }
+]

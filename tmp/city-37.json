@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "0.21",
+        "longitude": "42.33",
+        "geo": "0.21, 42.33",
+        "city": "Kismayo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png",
+        "country": "Somalia"
+    },
+    {
+        "latitude": "30.151",
+        "longitude": "120.101",
+        "geo": "30.15, 120.10a",
+        "city": "Hangzhou",
+        "province_icon": "",
+        "province": "Zhejiang",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "39.46",
+        "longitude": "86.09",
+        "geo": "39.46, 86.09",
+        "city": "Indianapolis",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/23px-Flag_of_Indiana.svg.png",
+        "province": "Indiana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "43.15",
+        "longitude": "2.55",
+        "geo": "43.15, 2.55",
+        "city": "Bilbao",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/23px-Flag_of_the_Basque_Country.svg.png",
+        "province": "Basque Country",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "11.40",
+        "longitude": "92.46",
+        "geo": "11.40, 92.46",
+        "city": "Port Blair",
+        "province_icon": "",
+        "province": "Andaman and Nicobar Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    }
+]

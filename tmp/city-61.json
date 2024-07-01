@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "31.57",
+        "longitude": "115.52",
+        "geo": "31.57, 115.52",
+        "city": "Perth",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/23px-Flag_of_Western_Australia.svg.png",
+        "province": "Western Australia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "32.47",
+        "longitude": "129.52",
+        "geo": "32.47, 129.52",
+        "city": "Nagasaki",
+        "province_icon": "",
+        "province": "Nagasaki",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "55.24",
+        "longitude": "10.23",
+        "geo": "55.24, 10.23",
+        "city": "Odense",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "51.06",
+        "longitude": "1.30",
+        "geo": "51.06, 1.30",
+        "city": "Winchester",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "5.06",
+        "longitude": "42.48",
+        "geo": "5.06, 42.48",
+        "city": "Teresina",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/23px-Bandeira_do_Piau%C3%AD.svg.png",
+        "province": "Piauí",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

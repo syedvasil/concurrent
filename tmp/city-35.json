@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "12.46",
+        "longitude": "15.44",
+        "geo": "12.46, 15.44",
+        "city": "Huambo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+        "country": "Angola"
+    },
+    {
+        "latitude": "34.02",
+        "longitude": "6.50",
+        "geo": "34.02, 6.50",
+        "city": "Rabat",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+        "country": "Morocco"
+    },
+    {
+        "latitude": "6.221",
+        "longitude": "2.261",
+        "geo": "6.22, 2.26a",
+        "city": "Cotonou",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+        "country": "Benin"
+    },
+    {
+        "latitude": "21.25",
+        "longitude": "39.49",
+        "geo": "21.25, 39.49",
+        "city": "Mecca",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "country": "Saudi Arabia"
+    },
+    {
+        "latitude": "26.29",
+        "longitude": "31.22",
+        "geo": "26.29, 31.22",
+        "city": "Manzini",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/23px-Flag_of_Swaziland.svg.png",
+        "country": "Swaziland"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "16.52",
+        "longitude": "99.53",
+        "geo": "16.52, 99.53",
+        "city": "Acapulco",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Guerrero.svg/23px-Flag_of_Guerrero.svg.png",
+        "province": "Guerrero",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "8.07",
+        "longitude": "63.33",
+        "geo": "8.07, 63.33",
+        "city": "Ciudad Bolívar",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "47.00",
+        "longitude": "28.55",
+        "geo": "47.00, 28.55",
+        "city": "Chişinău",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+        "country": "Moldova"
+    },
+    {
+        "latitude": "16.24",
+        "longitude": "71.32",
+        "geo": "16.24, 71.32",
+        "city": "Arequipa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "country": "Peru"
+    },
+    {
+        "latitude": "25.32",
+        "longitude": "103.27",
+        "geo": "25.32, 103.27",
+        "city": "Torreón",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Coahuila.svg/23px-Flag_of_Coahuila.svg.png",
+        "province": "Coahuila",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

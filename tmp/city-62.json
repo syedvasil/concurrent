@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "53.481",
+        "longitude": "1.331",
+        "geo": "53.48, 1.33a",
+        "city": "Leeds",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "49.15",
+        "longitude": "123.06",
+        "geo": "49.15, 123.06",
+        "city": "Vancouver",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/23px-Flag_of_British_Columbia.svg.png",
+        "province": "British Columbia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "26.121",
+        "longitude": "28.031",
+        "geo": "26.12, 28.03a",
+        "city": "Johannesburg",
+        "province_icon": "",
+        "province": "Gauteng",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "17.011",
+        "longitude": "54.051",
+        "geo": "17.01, 54.05a",
+        "city": "Salalah",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png",
+        "country": "Oman"
+    },
+    {
+        "latitude": "18.56",
+        "longitude": "47.31",
+        "geo": "18.56, 47.31",
+        "city": "Antananarivo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png",
+        "country": "Madagascar"
+    }
+]

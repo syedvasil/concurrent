@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "5.191",
+        "longitude": "4.021",
+        "geo": "5.19, 4.02a",
+        "city": "Abidjan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+        "country": "Ivory Coast"
+    },
+    {
+        "latitude": "22.59",
+        "longitude": "120.11",
+        "geo": "22.59, 120.11",
+        "city": "Tainan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+        "country": "Republic of China (Taiwan)"
+    },
+    {
+        "latitude": "68.471",
+        "longitude": "16.321",
+        "geo": "68.47, 16.32a",
+        "city": "Harstad",
+        "province_icon": "",
+        "province": "Troms",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "25.04",
+        "longitude": "102.41",
+        "geo": "25.04, 102.41",
+        "city": "Kunming",
+        "province_icon": "",
+        "province": "Yunnan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "33.50",
+        "longitude": "132.46",
+        "geo": "33.50, 132.46",
+        "city": "Matsuyama",
+        "province_icon": "",
+        "province": "Ehime",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

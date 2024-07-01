@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.361",
+        "longitude": "106.481",
+        "geo": "6.36, 106.48a",
+        "city": "Bogor",
+        "province_icon": "",
+        "province": "West Java",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "33.53",
+        "longitude": "35.31",
+        "geo": "33.53, 35.31",
+        "city": "Beirut",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png",
+        "country": "Lebanon"
+    },
+    {
+        "latitude": "32.32",
+        "longitude": "115.43",
+        "geo": "32.32, 115.43",
+        "city": "Mandurah",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/23px-Flag_of_Western_Australia.svg.png",
+        "province": "Western Australia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "27.28",
+        "longitude": "89.39",
+        "geo": "27.28, 89.39",
+        "city": "Thimphu",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png",
+        "country": "Bhutan"
+    },
+    {
+        "latitude": "13.321",
+        "longitude": "71.581",
+        "geo": "13.32, 71.58a",
+        "city": "Cusco",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "country": "Peru"
+    }
+]

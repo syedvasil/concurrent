@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "64.45",
+        "longitude": "20.57",
+        "geo": "64.45, 20.57",
+        "city": "Skellefteå",
+        "province_icon": "",
+        "province": "Västerbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "31.38",
+        "longitude": "8.01",
+        "geo": "31.38, 8.01",
+        "city": "Marrakech",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+        "country": "Morocco"
+    },
+    {
+        "latitude": "57.151",
+        "longitude": "2.111",
+        "geo": "57.15, 2.11a",
+        "city": "Aberdeen",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png",
+        "province": "Scotland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "81.361",
+        "longitude": "16.401",
+        "geo": "81.36, 16.40a",
+        "city": "Nord",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+        "province": "Greenland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "40.49",
+        "longitude": "140.45",
+        "geo": "40.49, 140.45",
+        "city": "Aomori",
+        "province_icon": "",
+        "province": "Aomori",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

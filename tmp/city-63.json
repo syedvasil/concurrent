@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "31.47",
+        "longitude": "35.13",
+        "geo": "31.47, 35.13",
+        "city": "Jerusalem",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+        "country": "Israel"
+    },
+    {
+        "latitude": "17.30",
+        "longitude": "88.11",
+        "geo": "17.30, 88.11",
+        "city": "Belize City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+        "country": "Belize"
+    },
+    {
+        "latitude": "6.07",
+        "longitude": "100.22",
+        "geo": "6.07, 100.22",
+        "city": "Alor Setar",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_Kedah.svg/23px-Flag_of_Kedah.svg.png",
+        "province": "Kedah",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "59.34",
+        "longitude": "150.48",
+        "geo": "59.34, 150.48",
+        "city": "Magadan",
+        "province_icon": "",
+        "province": "Magadan Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "43.51",
+        "longitude": "18.21",
+        "geo": "43.51, 18.21",
+        "city": "Sarajevo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+        "country": "Bosnia and Herzegovina"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "33.20",
+        "longitude": "44.26",
+        "geo": "33.20, 44.26",
+        "city": "Baghdad",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "country": "Iraq"
+    },
+    {
+        "latitude": "46.32",
+        "longitude": "84.21",
+        "geo": "46.32, 84.21",
+        "city": "Sault Ste. Marie",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "10.171",
+        "longitude": "61.281",
+        "geo": "10.17, 61.28a",
+        "city": "San Fernando",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+        "country": "Trinidad and Tobago"
+    },
+    {
+        "latitude": "37.34",
+        "longitude": "126.59",
+        "geo": "37.34, 126.59",
+        "city": "Seoul",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "country": "South Korea"
+    },
+    {
+        "latitude": "71.18",
+        "longitude": "156.46",
+        "geo": "71.18, 156.46",
+        "city": "Barrow",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

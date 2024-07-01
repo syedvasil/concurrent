@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "30.3",
+        "longitude": "31.14",
+        "geo": "30.3, 31.14",
+        "city": "Cairo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "country": "Egypt"
+    },
+    {
+        "latitude": "31.381",
+        "longitude": "60.421",
+        "geo": "31.38, 60.42a",
+        "city": "Santa Fe",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg/23px-Bandera_de_la_Provincia_de_Santa_Fe.svg.png",
+        "province": "Santa Fe",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "51.30",
+        "longitude": "0.08",
+        "geo": "51.30, 0.08",
+        "city": "London",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "30.12",
+        "longitude": "71.28",
+        "geo": "30.12, 71.28",
+        "city": "Multan",
+        "province_icon": "",
+        "province": "Punjab",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "43.56",
+        "longitude": "12.27",
+        "geo": "43.56, 12.27",
+        "city": "San Marino",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png",
+        "country": "San Marino"
+    }
+]

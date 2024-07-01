@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "56.09",
+        "longitude": "10.13",
+        "geo": "56.09, 10.13",
+        "city": "Aarhus",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "42.56",
+        "longitude": "10.46",
+        "geo": "42.56, 10.46",
+        "city": "Follonica",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Tuscany.svg/23px-Flag_of_Tuscany.svg.png",
+        "province": "Tuscany",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "38.35",
+        "longitude": "28.43",
+        "geo": "38.35, 28.43",
+        "city": "Horta",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/23px-Flag_of_the_Azores.svg.png",
+        "province": "Azores",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "58.24",
+        "longitude": "15.37",
+        "geo": "58.24, 15.37",
+        "city": "Linköping",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "8.291",
+        "longitude": "13.141",
+        "geo": "8.29, 13.14a",
+        "city": "Freetown",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png",
+        "country": "Sierra Leone"
+    }
+]

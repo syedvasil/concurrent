@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "54.58",
+        "longitude": "1.37",
+        "geo": "54.58, 1.37",
+        "city": "Newcastle upon Tyne",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "38.57",
+        "longitude": "68.03",
+        "geo": "38.57, 68.03",
+        "city": "Neuquén",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg/19px-Bandera_de_la_Provincia_de_Neuqu%C3%A9n.svg.png",
+        "province": "Neuquén",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "61.30",
+        "longitude": "23.46",
+        "geo": "61.30, 23.46",
+        "city": "Tampere",
+        "province_icon": "",
+        "province": "Pirkanmaa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "59.571",
+        "longitude": "30.181",
+        "geo": "59.57, 30.18a",
+        "city": "Saint Petersburg",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "8.17",
+        "longitude": "35.59",
+        "geo": "8.17, 35.59",
+        "city": "Caruaru",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/22px-Bandeira_de_Pernambuco.svg.png",
+        "province": "Pernambuco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

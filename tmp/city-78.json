@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "38.15",
+        "longitude": "140.20",
+        "geo": "38.15, 140.20",
+        "city": "Yamagata",
+        "province_icon": "",
+        "province": "Yamagata",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "39.47",
+        "longitude": "30.31",
+        "geo": "39.47, 30.31",
+        "city": "Eskisehir",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "15.55",
+        "longitude": "5.43",
+        "geo": "15.55, 5.43",
+        "city": "Jamestown",
+        "province_icon": "",
+        "province": "Saint Helena",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "35.28",
+        "longitude": "133.03",
+        "geo": "35.28, 133.03",
+        "city": "Matsue",
+        "province_icon": "",
+        "province": "Shimane",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "65.351",
+        "longitude": "22.091",
+        "geo": "65.35, 22.09a",
+        "city": "Luleå",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    }
+]

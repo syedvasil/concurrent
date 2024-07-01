@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "60.43",
+        "longitude": "46.02",
+        "geo": "60.43, 46.02",
+        "city": "Qaqortoq",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+        "province": "Greenland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "52.05",
+        "longitude": "4.19",
+        "geo": "52.05, 4.19",
+        "city": "The Hague",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_Zuid-Holland.svg/23px-Flag_Zuid-Holland.svg.png",
+        "province": "South Holland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "34.39",
+        "longitude": "133.55",
+        "geo": "34.39, 133.55",
+        "city": "Okayama",
+        "province_icon": "",
+        "province": "Okayama",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "32.47",
+        "longitude": "130.44",
+        "geo": "32.47, 130.44",
+        "city": "Kumamoto",
+        "province_icon": "",
+        "province": "Kumamoto",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "6.10",
+        "longitude": "39.12",
+        "geo": "6.10, 39.12",
+        "city": "Zanzibar City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+        "country": "Tanzania"
+    }
+]

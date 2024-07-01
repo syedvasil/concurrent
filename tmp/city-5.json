@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "13.31",
+        "longitude": "2.06",
+        "geo": "13.31, 2.06",
+        "city": "Niamey",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png",
+        "country": "Niger"
+    },
+    {
+        "latitude": "51.20",
+        "longitude": "12.23",
+        "geo": "51.20, 12.23",
+        "city": "Leipzig",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Saxony.svg/23px-Flag_of_Saxony.svg.png",
+        "province": "Saxony",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "50.51",
+        "longitude": "4.21",
+        "geo": "50.51, 4.21",
+        "city": "Brussels",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Brussels-Capital_Region.svg/23px-Flag_of_the_Brussels-Capital_Region.svg.png",
+        "province": "Brussels",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+        "country": "Belgium"
+    },
+    {
+        "latitude": "60.23",
+        "longitude": "5.20",
+        "geo": "60.23, 5.20",
+        "city": "Bergen",
+        "province_icon": "",
+        "province": "Hordaland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "3.51",
+        "longitude": "32.25",
+        "geo": "3.51, 32.25",
+        "city": "Fernando de Noronha",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/22px-Bandeira_de_Pernambuco.svg.png",
+        "province": "Pernambuco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

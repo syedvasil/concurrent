@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "27.11",
+        "longitude": "78.01",
+        "geo": "27.11, 78.01",
+        "city": "Agra",
+        "province_icon": "",
+        "province": "Uttar Pradesh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "13.101",
+        "longitude": "74.131",
+        "geo": "13.10, 74.13a",
+        "city": "Ayacucho",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "country": "Peru"
+    },
+    {
+        "latitude": "21.10",
+        "longitude": "27.31",
+        "geo": "21.10, 27.31",
+        "city": "Francistown",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+        "country": "Botswana"
+    },
+    {
+        "latitude": "3.45",
+        "longitude": "8.47",
+        "geo": "3.45, 8.47",
+        "city": "Malabo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png",
+        "country": "Equatorial Guinea"
+    },
+    {
+        "latitude": "37.04",
+        "longitude": "37.23",
+        "geo": "37.04, 37.23",
+        "city": "Gaziantep",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    }
+]

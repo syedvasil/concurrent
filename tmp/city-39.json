@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "35.141",
+        "longitude": "80.511",
+        "geo": "35.14, 80.51a",
+        "city": "Charlotte",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/23px-Flag_of_North_Carolina.svg.png",
+        "province": "North Carolina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "36.20",
+        "longitude": "43.08",
+        "geo": "36.20, 43.08",
+        "city": "Mosul",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "country": "Iraq"
+    },
+    {
+        "latitude": "43.191",
+        "longitude": "2.001",
+        "geo": "43.19, 2.00a",
+        "city": "San Sebastián",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/23px-Flag_of_the_Basque_Country.svg.png",
+        "province": "Basque Country",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "43.32",
+        "longitude": "5.42",
+        "geo": "43.32, 5.42",
+        "city": "Gijón",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Asturias.svg/23px-Flag_of_Asturias.svg.png",
+        "province": "Principado de Asturias",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "13.271",
+        "longitude": "16.351",
+        "geo": "13.27, 16.35a",
+        "city": "Banjul",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+        "country": "Gambia"
+    }
+]

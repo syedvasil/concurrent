@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "3.35",
+        "longitude": "98.40",
+        "geo": "3.35, 98.40",
+        "city": "Medan",
+        "province_icon": "",
+        "province": "North Sumatera",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "25.25",
+        "longitude": "49.15",
+        "geo": "25.25, 49.15",
+        "city": "Curitiba",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/22px-Bandeira_do_Paran%C3%A1.svg.png",
+        "province": "Paraná",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "20.13",
+        "longitude": "70.09",
+        "geo": "20.13, 70.09",
+        "city": "Iquique",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "7.041",
+        "longitude": "171.161",
+        "geo": "7.04, 171.16a",
+        "city": "Majuro",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png",
+        "country": "Marshall Islands"
+    },
+    {
+        "latitude": "29.221",
+        "longitude": "47.591",
+        "geo": "29.22, 47.59a",
+        "city": "Kuwait City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png",
+        "country": "Kuwait"
+    }
+]

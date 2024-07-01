@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "27.221",
+        "longitude": "70.201",
+        "geo": "27.22, 70.20a",
+        "city": "Copiapó",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "59.57",
+        "longitude": "10.45",
+        "geo": "59.57, 10.45",
+        "city": "Oslo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "9.24",
+        "longitude": "0.51",
+        "geo": "9.24, 0.51",
+        "city": "Tamale",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "country": "Ghana"
+    },
+    {
+        "latitude": "24.39",
+        "longitude": "25.55",
+        "geo": "24.39, 25.55",
+        "city": "Gaborone",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+        "country": "Botswana"
+    },
+    {
+        "latitude": "36.381",
+        "longitude": "101.461",
+        "geo": "36.38, 101.46a",
+        "city": "Xining",
+        "province_icon": "",
+        "province": "Qinghai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    }
+]

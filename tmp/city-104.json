@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "63.50",
+        "longitude": "20.16",
+        "geo": "63.50, 20.16",
+        "city": "Umeå",
+        "province_icon": "",
+        "province": "Västerbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "64.44",
+        "longitude": "177.31",
+        "geo": "64.44, 177.31",
+        "city": "Anadyr",
+        "province_icon": "",
+        "province": "Chukotka Autonomous Okrug",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "62.541",
+        "longitude": "27.411",
+        "geo": "62.54, 27.41a",
+        "city": "Kuopio",
+        "province_icon": "",
+        "province": "Northern Savonia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "44.59",
+        "longitude": "93.16",
+        "geo": "44.59, 93.16",
+        "city": "Minneapolis",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/23px-Flag_of_Minnesota.svg.png",
+        "province": "Minnesota",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "70.05",
+        "longitude": "29.44",
+        "geo": "70.05, 29.44",
+        "city": "Vadsø",
+        "province_icon": "",
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

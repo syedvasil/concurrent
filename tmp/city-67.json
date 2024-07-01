@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "22.151",
+        "longitude": "97.521",
+        "geo": "22.15, 97.52a",
+        "city": "Tampico",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Tamaulipas.svg/23px-Flag_of_Tamaulipas.svg.png",
+        "province": "Tamaulipas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "36.04",
+        "longitude": "120.23",
+        "geo": "36.04, 120.23",
+        "city": "Qingdao",
+        "province_icon": "",
+        "province": "Shandong",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "20.19",
+        "longitude": "118.36",
+        "geo": "20.19, 118.36",
+        "city": "Port Hedland",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Western_Australia.svg/23px-Flag_of_Western_Australia.svg.png",
+        "province": "Western Australia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "78.131",
+        "longitude": "15.391",
+        "geo": "78.13, 15.39a",
+        "city": "Longyearbyen",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "province": "Svalbard",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "28.25",
+        "longitude": "81.18",
+        "geo": "28.25, 81.18",
+        "city": "Orlando",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png",
+        "province": "Florida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

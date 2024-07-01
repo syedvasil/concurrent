@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "38.15",
+        "longitude": "85.46",
+        "geo": "38.15, 85.46",
+        "city": "Louisville",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/23px-Flag_of_Kentucky.svg.png",
+        "province": "Kentucky",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "70.59",
+        "longitude": "25.59",
+        "geo": "70.59, 25.59",
+        "city": "Honningsvåg",
+        "province_icon": "",
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "48.18",
+        "longitude": "14.17",
+        "geo": "48.18, 14.17",
+        "city": "Linz",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Upper_Austria.svg/23px-Flag_of_Upper_Austria.svg.png",
+        "province": "Upper Austria",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "country": "Austria"
+    },
+    {
+        "latitude": "65.22",
+        "longitude": "27.00",
+        "geo": "65.22, 27.00",
+        "city": "Pudasjärvi",
+        "province_icon": "",
+        "province": "Northern Ostrobothnia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "41.46",
+        "longitude": "140.44",
+        "geo": "41.46, 140.44",
+        "city": "Hakodate",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

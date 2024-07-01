@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "30.42",
+        "longitude": "88.03",
+        "geo": "30.42, 88.03",
+        "city": "Mobile",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/23px-Flag_of_Alabama.svg.png",
+        "province": "Alabama",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "61.13",
+        "longitude": "149.54",
+        "geo": "61.13, 149.54",
+        "city": "Anchorage",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "19.031",
+        "longitude": "169.551",
+        "geo": "19.03, 169.55a",
+        "city": "Alofi",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png",
+        "province": "Niue",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "6.27",
+        "longitude": "3.24",
+        "geo": "6.27, 3.24",
+        "city": "Lagos",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "58.10",
+        "longitude": "8.00",
+        "geo": "58.10, 8.00",
+        "city": "Kristiansand",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    }
+]

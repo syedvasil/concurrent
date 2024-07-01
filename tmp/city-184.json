@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "21.081",
+        "longitude": "79.051",
+        "geo": "21.08, 79.05a",
+        "city": "Nagpur",
+        "province_icon": "",
+        "province": "Maharashtra",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "33.27",
+        "longitude": "112.04",
+        "geo": "33.27, 112.04",
+        "city": "Phoenix",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/23px-Flag_of_Arizona.svg.png",
+        "province": "Arizona",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "36.36",
+        "longitude": "114.29",
+        "geo": "36.36, 114.29",
+        "city": "Handan",
+        "province_icon": "",
+        "province": "Hebei",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "29.33",
+        "longitude": "34.57",
+        "geo": "29.33, 34.57",
+        "city": "Eilat",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+        "country": "Israel"
+    },
+    {
+        "latitude": "28.38",
+        "longitude": "106.05",
+        "geo": "28.38, 106.05",
+        "city": "Chihuahua",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Chihuahua.svg/23px-Flag_of_Chihuahua.svg.png",
+        "province": "Chihuahua",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

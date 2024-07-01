@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "42.421",
+        "longitude": "23.201",
+        "geo": "42.42, 23.20a",
+        "city": "Sofia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png",
+        "country": "Bulgaria"
+    },
+    {
+        "latitude": "60.27",
+        "longitude": "22.16",
+        "geo": "60.27, 22.16",
+        "city": "Turku",
+        "province_icon": "",
+        "province": "Southwest Finland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "52.231",
+        "longitude": "4.381",
+        "geo": "52.23, 4.38a",
+        "city": "Haarlem",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_North-Holland%2C_Netherlands.svg/23px-Flag_North-Holland%2C_Netherlands.svg.png",
+        "province": "North Holland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "40.45",
+        "longitude": "111.53",
+        "geo": "40.45, 111.53",
+        "city": "Salt Lake City",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/23px-Flag_of_Utah.svg.png",
+        "province": "Utah",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "19.151",
+        "longitude": "146.491",
+        "geo": "19.15, 146.49a",
+        "city": "Townsville",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Queensland.svg/23px-Flag_of_Queensland.svg.png",
+        "province": "Queensland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    }
+]

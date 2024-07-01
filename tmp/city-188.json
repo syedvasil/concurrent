@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "9.08",
+        "longitude": "99.20",
+        "geo": "9.08, 99.20",
+        "city": "Surat Thani",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "35.49",
+        "longitude": "78.39",
+        "geo": "35.49, 78.39",
+        "city": "Raleigh",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/23px-Flag_of_North_Carolina.svg.png",
+        "province": "North Carolina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "25.41",
+        "longitude": "32.39",
+        "geo": "25.41, 32.39",
+        "city": "Luxor",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "country": "Egypt"
+    },
+    {
+        "latitude": "24.281",
+        "longitude": "39.361",
+        "geo": "24.28, 39.36a",
+        "city": "Medina",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "country": "Saudi Arabia"
+    },
+    {
+        "latitude": "37.29",
+        "longitude": "126.38",
+        "geo": "37.29, 126.38",
+        "city": "Incheon",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "country": "South Korea"
+    }
+]

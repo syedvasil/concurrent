@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "77.511",
+        "longitude": "166.401",
+        "geo": "77.51, 166.40a",
+        "city": "McMurdo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "51.02",
+        "longitude": "13.44",
+        "geo": "51.02, 13.44",
+        "city": "Dresden",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Saxony.svg/23px-Flag_of_Saxony.svg.png",
+        "province": "Saxony",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "40.11",
+        "longitude": "44.31",
+        "geo": "40.11, 44.31",
+        "city": "Yerevan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png",
+        "country": "Armenia"
+    },
+    {
+        "latitude": "10.38",
+        "longitude": "85.26",
+        "geo": "10.38, 85.26",
+        "city": "Liberia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+        "country": "Costa Rica"
+    },
+    {
+        "latitude": "45.02",
+        "longitude": "38.58",
+        "geo": "45.02, 38.58",
+        "city": "Krasnodar",
+        "province_icon": "",
+        "province": "Krasnodar Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

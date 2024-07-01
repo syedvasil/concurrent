@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "13.31",
+        "longitude": "144.50",
+        "geo": "13.31, 144.50",
+        "city": "Dededo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/23px-Flag_of_Guam.svg.png",
+        "province": "Guam",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "20.40",
+        "longitude": "105.16",
+        "geo": "20.40, 105.16",
+        "city": "Puerto Vallarta",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Jalisco.svg/23px-Flag_of_Jalisco.svg.png",
+        "province": "Jalisco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "62.12",
+        "longitude": "58.58",
+        "geo": "62.12, 58.58",
+        "city": "Villa Las Estrellas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Magallanes%2C_Chile.svg/23px-Flag_of_Magallanes%2C_Chile.svg.png",
+        "province": "Antártica Chilena Province",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "50.381",
+        "longitude": "3.031",
+        "geo": "50.38, 3.03a",
+        "city": "Lille",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Generic_flag_of_Nord-Pas-de-Calais.svg/23px-Generic_flag_of_Nord-Pas-de-Calais.svg.png",
+        "province": "Nord-Pas-de-Calais",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "24.011",
+        "longitude": "104.401",
+        "geo": "24.01, 104.40a",
+        "city": "Durango",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_Durango.png/23px-Flag_of_Durango.png",
+        "province": "Durango",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "8.46",
+        "longitude": "63.54",
+        "geo": "8.46, 63.54",
+        "city": "Porto Velho",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/22px-Bandeira_de_Rond%C3%B4nia.svg.png",
+        "province": "Rondônia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "2.321",
+        "longitude": "44.181",
+        "geo": "2.32, 44.18a",
+        "city": "São Luís",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/23px-Bandeira_do_Maranh%C3%A3o.svg.png",
+        "province": "Maranhão",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "23.37",
+        "longitude": "58.36",
+        "geo": "23.37, 58.36",
+        "city": "Muscat",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png",
+        "country": "Oman"
+    },
+    {
+        "latitude": "44.22",
+        "longitude": "100.20",
+        "geo": "44.22, 100.20",
+        "city": "Pierre",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/23px-Flag_of_South_Dakota.svg.png",
+        "province": "South Dakota",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "38.11",
+        "longitude": "15.33",
+        "geo": "38.11, 15.33",
+        "city": "Messina",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Sicily_%28revised%29.svg/23px-Flag_of_Sicily_%28revised%29.svg.png",
+        "province": "Sicily",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    }
+]

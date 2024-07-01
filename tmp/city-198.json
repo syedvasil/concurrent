@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "37.581",
+        "longitude": "126.331",
+        "geo": "37.58, 126.33a",
+        "city": "Kaesong",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+        "country": "North Korea"
+    },
+    {
+        "latitude": "34.59",
+        "longitude": "138.23",
+        "geo": "34.59, 138.23",
+        "city": "Shizuoka",
+        "province_icon": "",
+        "province": "Shizuoka",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "16.48",
+        "longitude": "96.09",
+        "geo": "16.48, 96.09",
+        "city": "Yangon",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png",
+        "country": "Myanmar"
+    },
+    {
+        "latitude": "47.481",
+        "longitude": "13.021",
+        "geo": "47.48, 13.02a",
+        "city": "Salzburg",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Salzburg.svg/23px-Flag_of_Salzburg.svg.png",
+        "province": "Salzburg",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "country": "Austria"
+    },
+    {
+        "latitude": "43.50",
+        "longitude": "66.07",
+        "geo": "43.50, 66.07",
+        "city": "Yarmouth",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/23px-Flag_of_Nova_Scotia.svg.png",
+        "province": "Nova Scotia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    }
+]

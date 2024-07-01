@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "10.46",
+        "longitude": "106.41",
+        "geo": "10.46, 106.41",
+        "city": "Ho Chi Minh City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "22.53",
+        "longitude": "109.55",
+        "geo": "22.53, 109.55",
+        "city": "Cabo San Lucas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Baja_California_Sur.svg/23px-Flag_of_Baja_California_Sur.svg.png",
+        "province": "Baja California Sur",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "42.59",
+        "longitude": "144.23",
+        "geo": "42.59, 144.23",
+        "city": "Kushiro",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "16.26",
+        "longitude": "179.22",
+        "geo": "16.26, 179.22",
+        "city": "Labasa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+        "country": "Fiji"
+    },
+    {
+        "latitude": "1.271",
+        "longitude": "48.301",
+        "geo": "1.27, 48.30a",
+        "city": "Belém",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/23px-Bandeira_do_Par%C3%A1.svg.png",
+        "province": "Pará",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "50.43",
+        "longitude": "3.32",
+        "geo": "50.43, 3.32",
+        "city": "Exeter",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "41.54",
+        "longitude": "12.27",
+        "geo": "41.54, 12.27",
+        "city": "Vatican City",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/16px-Flag_of_the_Vatican_City.svg.png",
+        "country": "Vatican City"
+    },
+    {
+        "latitude": "21.02",
+        "longitude": "105.51",
+        "geo": "21.02, 105.51",
+        "city": "Hanoi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "41.05",
+        "longitude": "85.08",
+        "geo": "41.05, 85.08",
+        "city": "Fort Wayne",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/23px-Flag_of_Indiana.svg.png",
+        "province": "Indiana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "32.53",
+        "longitude": "68.49",
+        "geo": "32.53, 68.49",
+        "city": "Mendoza",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bandera_de_la_Provincia_de_Mendoza.svg/12px-Bandera_de_la_Provincia_de_Mendoza.svg.png",
+        "province": "Mendoza",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.27",
+        "longitude": "7.31",
+        "geo": "6.27, 7.31",
+        "city": "Enugu",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "40.46",
+        "longitude": "105.01",
+        "geo": "40.46, 105.01",
+        "city": "Fort Collins",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/23px-Flag_of_Colorado.svg.png",
+        "province": "Colorado",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "47.041",
+        "longitude": "15.261",
+        "geo": "47.04, 15.26a",
+        "city": "Graz",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Styria.svg/23px-Flag_of_Styria.svg.png",
+        "province": "Styria",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "country": "Austria"
+    },
+    {
+        "latitude": "38.29",
+        "longitude": "27.13",
+        "geo": "38.29, 27.13",
+        "city": "Angra do Heroísmo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/23px-Flag_of_the_Azores.svg.png",
+        "province": "Azores",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "19.11",
+        "longitude": "96.09",
+        "geo": "19.11, 96.09",
+        "city": "Veracruz",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Veracruz.svg/23px-Flag_of_Veracruz.svg.png",
+        "province": "Veracruz",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    }
+]

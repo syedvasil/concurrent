@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "29.58",
+        "longitude": "90.03",
+        "geo": "29.58, 90.03",
+        "city": "New Orleans",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/23px-Flag_of_Louisiana.svg.png",
+        "province": "Louisiana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "56.20",
+        "longitude": "44.00",
+        "geo": "56.20, 44.00",
+        "city": "Nizhny Novgorod",
+        "province_icon": "",
+        "province": "Nizhny Novgorod Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "12.00",
+        "longitude": "8.31",
+        "geo": "12.00, 8.31",
+        "city": "Kano",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "56.011",
+        "longitude": "93.041",
+        "geo": "56.01, 93.04a",
+        "city": "Krasnoyarsk",
+        "province_icon": "",
+        "province": "Krasnoyarsk Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "25.041",
+        "longitude": "77.201",
+        "geo": "25.04, 77.20a",
+        "city": "Nassau",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png",
+        "country": "Bahamas"
+    }
+]

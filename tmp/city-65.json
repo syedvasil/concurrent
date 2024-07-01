@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "63.26",
+        "longitude": "10.24",
+        "geo": "63.26, 10.24",
+        "city": "Trondheim",
+        "province_icon": "",
+        "province": "Sør-Trøndelag",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "42.53",
+        "longitude": "147.20",
+        "geo": "42.53, 147.20",
+        "city": "Hobart",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Tasmania.svg/23px-Flag_of_Tasmania.svg.png",
+        "province": "Tasmania",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "42.54",
+        "longitude": "78.51",
+        "geo": "42.54, 78.51",
+        "city": "Buffalo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/23px-Flag_of_New_York.svg.png",
+        "province": "New York",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "29.37",
+        "longitude": "30.23",
+        "geo": "29.37, 30.23",
+        "city": "Pietermaritzburg",
+        "province_icon": "",
+        "province": "KwaZulu-Natal",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "35.111",
+        "longitude": "136.541",
+        "geo": "35.11, 136.54a",
+        "city": "Nagoya",
+        "province_icon": "",
+        "province": "Aichi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

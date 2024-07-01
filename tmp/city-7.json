@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "33.52",
+        "longitude": "151.13",
+        "geo": "33.52, 151.13",
+        "city": "Sydney",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/23px-Flag_of_New_South_Wales.svg.png",
+        "province": "New South Wales",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+        "country": "Australia"
+    },
+    {
+        "latitude": "26.38",
+        "longitude": "92.48",
+        "geo": "26.38, 92.48",
+        "city": "Tezpur",
+        "province_icon": "",
+        "province": "Assam",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "69.54",
+        "longitude": "27.01",
+        "geo": "69.54, 27.01",
+        "city": "Utsjoki",
+        "province_icon": "",
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "13.06",
+        "longitude": "59.37",
+        "geo": "13.06, 59.37",
+        "city": "Bridgetown",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png",
+        "country": "Barbados"
+    },
+    {
+        "latitude": "46.03",
+        "longitude": "14.31",
+        "geo": "46.03, 14.31",
+        "city": "Ljubljana",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+        "country": "Slovenia"
+    }
+]

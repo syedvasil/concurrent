@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "32.18",
+        "longitude": "64.47",
+        "geo": "32.18, 64.47",
+        "city": "Hamilton",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/23px-Flag_of_Bermuda.svg.png",
+        "province": "Bermuda",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "27.57",
+        "longitude": "82.28",
+        "geo": "27.57, 82.28",
+        "city": "Tampa",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png",
+        "province": "Florida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "40.011",
+        "longitude": "105.171",
+        "geo": "40.01, 105.17a",
+        "city": "Boulder",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/23px-Flag_of_Colorado.svg.png",
+        "province": "Colorado",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "53.05",
+        "longitude": "8.48",
+        "geo": "53.05, 8.48",
+        "city": "Bremen",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flag_of_Bremen.svg/23px-Flag_of_Bremen.svg.png",
+        "province": "Bremen",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "50.27",
+        "longitude": "30.31",
+        "geo": "50.27, 30.31",
+        "city": "Kiev",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Kiev_Oblast.svg/23px-Flag_of_Kiev_Oblast.svg.png",
+        "province": "Kiev Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "country": "Ukraine"
+    }
+]

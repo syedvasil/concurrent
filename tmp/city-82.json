@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "25.04",
+        "longitude": "130.06",
+        "geo": "25.04, 130.06",
+        "city": "Adamstown",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png",
+        "province": "Pitcairn Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "41.011",
+        "longitude": "28.571",
+        "geo": "41.01, 28.57a",
+        "city": "Istanbul",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "country": "Turkey"
+    },
+    {
+        "latitude": "12.58",
+        "longitude": "38.29",
+        "geo": "12.58, 38.29",
+        "city": "Salvador",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/23px-Bandeira_da_Bahia.svg.png",
+        "province": "Bahia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "14.42",
+        "longitude": "17.27",
+        "geo": "14.42, 17.27",
+        "city": "Dakar",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+        "country": "Senegal"
+    },
+    {
+        "latitude": "32.18",
+        "longitude": "90.11",
+        "geo": "32.18, 90.11",
+        "city": "Jackson",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/23px-Flag_of_Mississippi.svg.png",
+        "province": "Mississippi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

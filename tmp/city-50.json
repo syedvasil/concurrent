@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "56.50",
+        "longitude": "60.35",
+        "geo": "56.50, 60.35",
+        "city": "Yekaterinburg",
+        "province_icon": "",
+        "province": "Sverdlovsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "43.121",
+        "longitude": "71.321",
+        "geo": "43.12, 71.32a",
+        "city": "Concord",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/23px-Flag_of_New_Hampshire.svg.png",
+        "province": "New Hampshire",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "52.31",
+        "longitude": "13.23",
+        "geo": "52.31, 13.23",
+        "city": "Berlin",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Berlin.svg/23px-Flag_of_Berlin.svg.png",
+        "province": "Berlin",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "44.49",
+        "longitude": "20.28",
+        "geo": "44.49, 20.28",
+        "city": "Belgrade",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "country": "Serbia"
+    },
+    {
+        "latitude": "42.021",
+        "longitude": "13.251",
+        "geo": "42.02, 13.25a",
+        "city": "Avezzano",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Abruzzo.svg/23px-Flag_of_Abruzzo.svg.png",
+        "province": "Abruzzo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    }
+]

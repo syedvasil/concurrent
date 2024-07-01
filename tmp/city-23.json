@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "22.17",
+        "longitude": "166.27",
+        "geo": "22.17, 166.27",
+        "city": "Nouméa",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pro-Independence_Flag_of_New_Caledonia.svg/23px-Pro-Independence_Flag_of_New_Caledonia.svg.png",
+        "province": "New Caledonia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "39.01",
+        "longitude": "125.44",
+        "geo": "39.01, 125.44",
+        "city": "Pyongyang",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+        "country": "North Korea"
+    },
+    {
+        "latitude": "24.38",
+        "longitude": "46.43",
+        "geo": "24.38, 46.43",
+        "city": "Riyadh",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "country": "Saudi Arabia"
+    },
+    {
+        "latitude": "53.28",
+        "longitude": "2.14",
+        "geo": "53.28, 2.14",
+        "city": "Manchester",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "51.14",
+        "longitude": "6.47",
+        "geo": "51.14, 6.47",
+        "city": "Düsseldorf",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_North_Rhine-Westphalia.svg/23px-Flag_of_North_Rhine-Westphalia.svg.png",
+        "province": "North Rhine-Westphalia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    }
+]

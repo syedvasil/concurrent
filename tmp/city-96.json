@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "20.53",
+        "longitude": "55.27",
+        "geo": "20.53, 55.27",
+        "city": "Saint-Denis",
+        "province_icon": "",
+        "province": "Réunion",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    },
+    {
+        "latitude": "39.321",
+        "longitude": "119.491",
+        "geo": "39.32, 119.49a",
+        "city": "Reno",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/23px-Flag_of_Nevada.svg.png",
+        "province": "Nevada",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "69.20",
+        "longitude": "88.13",
+        "geo": "69.20, 88.13",
+        "city": "Norilsk",
+        "province_icon": "",
+        "province": "Krasnoyarsk Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "40.241",
+        "longitude": "49.531",
+        "geo": "40.24, 49.53a",
+        "city": "Baku",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png",
+        "country": "Azerbaijan"
+    },
+    {
+        "latitude": "52.191",
+        "longitude": "104.181",
+        "geo": "52.19, 104.18a",
+        "city": "Irkutsk",
+        "province_icon": "",
+        "province": "Irkutsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

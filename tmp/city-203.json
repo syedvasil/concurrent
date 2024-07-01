@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "44.51",
+        "longitude": "63.12",
+        "geo": "44.51, 63.12",
+        "city": "Halifax",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/23px-Flag_of_Nova_Scotia.svg.png",
+        "province": "Nova Scotia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "51.031",
+        "longitude": "114.041",
+        "geo": "51.03, 114.04a",
+        "city": "Calgary",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/23px-Flag_of_Alberta.svg.png",
+        "province": "Alberta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "42.26",
+        "longitude": "19.16",
+        "geo": "42.26, 19.16",
+        "city": "Podgorica",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png",
+        "country": "Montenegro"
+    },
+    {
+        "latitude": "13.59",
+        "longitude": "33.47",
+        "geo": "13.59, 33.47",
+        "city": "Lilongwe",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png",
+        "country": "Malawi"
+    },
+    {
+        "latitude": "42.141",
+        "longitude": "43.581",
+        "geo": "42.14, 43.58a",
+        "city": "Tskhinvali",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/23px-Flag_of_South_Ossetia.svg.png",
+        "province": "South Ossetia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+        "country": "Georgia"
+    }
+]

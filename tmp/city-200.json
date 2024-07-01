@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "35.42",
+        "longitude": "51.25",
+        "geo": "35.42, 51.25",
+        "city": "Tehran",
+        "province_icon": "",
+        "province": "Tehran",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "country": "Iran"
+    },
+    {
+        "latitude": "9.31",
+        "longitude": "13.43",
+        "geo": "9.31, 13.43",
+        "city": "Conakry",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+        "country": "Guinea"
+    },
+    {
+        "latitude": "26.17",
+        "longitude": "50.12",
+        "geo": "26.17, 50.12",
+        "city": "Dammam",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "country": "Saudi Arabia"
+    },
+    {
+        "latitude": "17.411",
+        "longitude": "83.131",
+        "geo": "17.41, 83.13a",
+        "city": "Visakhapatnam",
+        "province_icon": "",
+        "province": "Andhra Pradesh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "45.521",
+        "longitude": "67.291",
+        "geo": "45.52, 67.29a",
+        "city": "Comodoro Rivadavia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_la_Provincia_del_Chubut.svg/23px-Bandera_de_la_Provincia_del_Chubut.svg.png",
+        "province": "Chubut",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.51",
+        "longitude": "75.59",
+        "geo": "36.51, 75.59",
+        "city": "Virginia Beach",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/22px-Flag_of_Virginia.svg.png",
+        "province": "Virginia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "34.04",
+        "longitude": "134.33",
+        "geo": "34.04, 134.33",
+        "city": "Tokushima",
+        "province_icon": "",
+        "province": "Tokushima",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "32.13",
+        "longitude": "110.56",
+        "geo": "32.13, 110.56",
+        "city": "Tucson",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/23px-Flag_of_Arizona.svg.png",
+        "province": "Arizona",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "13.45",
+        "longitude": "100.28",
+        "geo": "13.45, 100.28",
+        "city": "Bangkok",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "32.07",
+        "longitude": "20.04",
+        "geo": "32.07, 20.04",
+        "city": "Benghazi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png",
+        "country": "Libya"
+    }
+]

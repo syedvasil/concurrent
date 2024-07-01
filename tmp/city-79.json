@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "36.23",
+        "longitude": "139.04",
+        "geo": "36.23, 139.04",
+        "city": "Maebashi",
+        "province_icon": "",
+        "province": "Gunma",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "65.51",
+        "longitude": "24.09",
+        "geo": "65.51, 24.09",
+        "city": "Tornio",
+        "province_icon": "",
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "51.561",
+        "longitude": "4.291",
+        "geo": "51.56, 4.29a",
+        "city": "Rotterdam",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_Zuid-Holland.svg/23px-Flag_Zuid-Holland.svg.png",
+        "province": "South Holland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "4.22",
+        "longitude": "18.35",
+        "geo": "4.22, 18.35",
+        "city": "Bangui",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png",
+        "country": "Central African Republic"
+    },
+    {
+        "latitude": "7.27",
+        "longitude": "151.51",
+        "geo": "7.27, 151.51",
+        "city": "Weno",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+        "country": "Federated States of Micronesia"
+    }
+]

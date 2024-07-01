@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "46.281",
+        "longitude": "30.441",
+        "geo": "46.28, 30.44a",
+        "city": "Odessa",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Odesa_Oblast.svg/23px-Flag_of_Odesa_Oblast.svg.png",
+        "province": "Odessa Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "country": "Ukraine"
+    },
+    {
+        "latitude": "34.44",
+        "longitude": "10.46",
+        "geo": "34.44, 10.46",
+        "city": "Sfax",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+        "country": "Tunisia"
+    },
+    {
+        "latitude": "13.16",
+        "longitude": "16.39",
+        "geo": "13.16, 16.39",
+        "city": "Brikama",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+        "country": "Gambia"
+    },
+    {
+        "latitude": "65.50",
+        "longitude": "24.08",
+        "geo": "65.50, 24.08",
+        "city": "Haparanda",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "51.13",
+        "longitude": "4.24",
+        "geo": "51.13, 4.24",
+        "city": "Antwerp",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Flanders.svg/23px-Flag_of_Flanders.svg.png",
+        "province": "Flanders",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+        "country": "Belgium"
+    }
+]

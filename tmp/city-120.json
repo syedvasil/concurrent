@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "31.12",
+        "longitude": "121.30",
+        "geo": "31.12, 121.30",
+        "city": "Shanghai",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "7.48",
+        "longitude": "110.22",
+        "geo": "7.48, 110.22",
+        "city": "Yogyakarta",
+        "province_icon": "",
+        "province": "Special Region of Yogyakarta",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "34.41",
+        "longitude": "135.48",
+        "geo": "34.41, 135.48",
+        "city": "Nara",
+        "province_icon": "",
+        "province": "Nara",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "34.13",
+        "longitude": "77.55",
+        "geo": "34.13, 77.55",
+        "city": "Wilmington",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/23px-Flag_of_North_Carolina.svg.png",
+        "province": "North Carolina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "35.01",
+        "longitude": "135.51",
+        "geo": "35.01, 135.51",
+        "city": "Ōtsu",
+        "province_icon": "",
+        "province": "Shiga",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

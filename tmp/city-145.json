@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "34.44",
+        "longitude": "92.20",
+        "geo": "34.44, 92.20",
+        "city": "Little Rock",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/23px-Flag_of_Arkansas.svg.png",
+        "province": "Arkansas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "45.25",
+        "longitude": "75.41",
+        "geo": "45.25, 75.41",
+        "city": "Ottawa",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "47.221",
+        "longitude": "8.331",
+        "geo": "47.22, 8.33a",
+        "city": "Zürich",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "country": "Switzerland"
+    },
+    {
+        "latitude": "2.11",
+        "longitude": "79.53",
+        "geo": "2.11, 79.53",
+        "city": "Guayaquil",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+        "country": "Ecuador"
+    },
+    {
+        "latitude": "36.101",
+        "longitude": "86.471",
+        "geo": "36.10, 86.47a",
+        "city": "Nashville",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/23px-Flag_of_Tennessee.svg.png",
+        "province": "Tennessee",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

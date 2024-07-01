@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "22.19",
+        "longitude": "49.04",
+        "geo": "22.19, 49.04",
+        "city": "Bauru",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/23px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "province": "São Paulo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "43.42",
+        "longitude": "79.24",
+        "geo": "43.42, 79.24",
+        "city": "Toronto",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/23px-Flag_of_Ontario.svg.png",
+        "province": "Ontario",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "7.22",
+        "longitude": "134.29",
+        "geo": "7.22, 134.29",
+        "city": "Koror",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png",
+        "country": "Palau"
+    },
+    {
+        "latitude": "20.481",
+        "longitude": "49.231",
+        "geo": "20.48, 49.23a",
+        "city": "São José do Rio Preto",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/23px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "province": "São Paulo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "29.53",
+        "longitude": "31.03",
+        "geo": "29.53, 31.03",
+        "city": "Durban",
+        "province_icon": "",
+        "province": "KwaZulu-Natal",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    }
+]

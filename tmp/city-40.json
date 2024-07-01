@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "17.45",
+        "longitude": "168.18",
+        "geo": "17.45, 168.18",
+        "city": "Port Vila",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png",
+        "country": "Vanuatu"
+    },
+    {
+        "latitude": "29.07",
+        "longitude": "26.13",
+        "geo": "29.07, 26.13",
+        "city": "Bloemfontein",
+        "province_icon": "",
+        "province": "Free State",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "12.37",
+        "longitude": "87.09",
+        "geo": "12.37, 87.09",
+        "city": "Chinandega",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+        "country": "Nicaragua"
+    },
+    {
+        "latitude": "42.521",
+        "longitude": "74.371",
+        "geo": "42.52, 74.37a",
+        "city": "Bishkek",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png",
+        "country": "Kyrgyzstan"
+    },
+    {
+        "latitude": "46.51",
+        "longitude": "29.38",
+        "geo": "46.51, 29.38",
+        "city": "Tiraspol",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Transnistria.svg/23px-Flag_of_Transnistria.svg.png",
+        "province": "Transnistria",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+        "country": "Moldova"
+    }
+]

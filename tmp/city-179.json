@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "5.33",
+        "longitude": "0.12",
+        "geo": "5.33, 0.12",
+        "city": "Accra",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "country": "Ghana"
+    },
+    {
+        "latitude": "41.59",
+        "longitude": "89.35",
+        "geo": "41.59, 89.35",
+        "city": "Polo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/23px-Flag_of_Illinois.svg.png",
+        "province": "Illinois",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "35.30",
+        "longitude": "134.14",
+        "geo": "35.30, 134.14",
+        "city": "Tottori",
+        "province_icon": "",
+        "province": "Tottori",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "19.421",
+        "longitude": "155.051",
+        "geo": "19.42, 155.05a",
+        "city": "Hilo",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/23px-Flag_of_Hawaii.svg.png",
+        "province": "Hawaii",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "7.45",
+        "longitude": "72.13",
+        "geo": "7.45, 72.13",
+        "city": "San Cristóbal",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_T%C3%A1chira.svg/23px-Flag_of_T%C3%A1chira.svg.png",
+        "province": "Táchira",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    }
+]

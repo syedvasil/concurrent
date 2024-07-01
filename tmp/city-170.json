@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "26.49",
+        "longitude": "65.13",
+        "geo": "26.49, 65.13",
+        "city": "San Miguel de Tucumán",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/23px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png",
+        "province": "Tucumán",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "33.41",
+        "longitude": "53.27",
+        "geo": "33.41, 53.27",
+        "city": "Chuí",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/22px-Bandeira_do_Rio_Grande_do_Sul.svg.png",
+        "province": "Rio Grande do Sul",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "6.58",
+        "longitude": "110.25",
+        "geo": "6.58, 110.25",
+        "city": "Semarang",
+        "province_icon": "",
+        "province": "Central Java",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "18.48",
+        "longitude": "99.00",
+        "geo": "18.48, 99.00",
+        "city": "Chiang Mai",
+        "province_icon": "",
+        "province": "Chiang Mai Province",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "5.251",
+        "longitude": "100.191",
+        "geo": "5.25, 100.19a",
+        "city": "George Town",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Penang_%28Malaysia%29.svg/23px-Flag_of_Penang_%28Malaysia%29.svg.png",
+        "province": "Penang",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    }
+]

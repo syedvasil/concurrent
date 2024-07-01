@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "3.251",
+        "longitude": "76.311",
+        "geo": "3.25, 76.31a",
+        "city": "Santiago de Cali",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    },
+    {
+        "latitude": "47.08",
+        "longitude": "9.31",
+        "geo": "47.08, 9.31",
+        "city": "Vaduz",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+        "country": "Liechtenstein"
+    },
+    {
+        "latitude": "55.45",
+        "longitude": "37.37",
+        "geo": "55.45, 37.37",
+        "city": "Moscow",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "42.55",
+        "longitude": "143.12",
+        "geo": "42.55, 143.12",
+        "city": "Obihiro",
+        "province_icon": "",
+        "province": "Hokkaido",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "34.46",
+        "longitude": "113.39",
+        "geo": "34.46, 113.39",
+        "city": "Zhengzhou",
+        "province_icon": "",
+        "province": "Henan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    }
+]

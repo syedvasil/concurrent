@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "35.40",
+        "longitude": "105.58",
+        "geo": "35.40, 105.58",
+        "city": "Santa Fe",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/23px-Flag_of_New_Mexico.svg.png",
+        "province": "New Mexico",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "7.05",
+        "longitude": "34.50",
+        "geo": "7.05, 34.50",
+        "city": "João Pessoa",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/22px-Bandeira_da_Para%C3%ADba.svg.png",
+        "province": "Paraíba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "15.18",
+        "longitude": "61.23",
+        "geo": "15.18, 61.23",
+        "city": "Roseau",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png",
+        "country": "Dominica"
+    },
+    {
+        "latitude": "4.20",
+        "longitude": "15.19",
+        "geo": "4.20, 15.19",
+        "city": "Kinshasa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+        "country": "Democratic Republic of the Congo"
+    },
+    {
+        "latitude": "35.29",
+        "longitude": "97.32",
+        "geo": "35.29, 97.32",
+        "city": "Oklahoma City",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/23px-Flag_of_Oklahoma.svg.png",
+        "province": "Oklahoma",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

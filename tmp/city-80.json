@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "49.37",
+        "longitude": "6.07",
+        "geo": "49.37, 6.07",
+        "city": "Luxembourg",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+        "country": "Luxembourg"
+    },
+    {
+        "latitude": "8.35",
+        "longitude": "71.08",
+        "geo": "8.35, 71.08",
+        "city": "Mérida",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_M%C3%A9rida.svg/23px-Flag_of_M%C3%A9rida.svg.png",
+        "province": "Mérida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "65.20",
+        "longitude": "21.30",
+        "geo": "65.20, 21.30",
+        "city": "Piteå",
+        "province_icon": "",
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "71.32",
+        "longitude": "52.19",
+        "geo": "71.32, 52.19",
+        "city": "Belushya Guba",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Arkhangelsk_Oblast.svg/23px-Flag_of_Arkhangelsk_Oblast.svg.png",
+        "province": "Arkhangelsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "65.58",
+        "longitude": "29.11",
+        "geo": "65.58, 29.11",
+        "city": "Kuusamo",
+        "province_icon": "",
+        "province": "Northern Ostrobothnia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "9.58",
+        "longitude": "76.17",
+        "geo": "9.58, 76.17",
+        "city": "Kochi",
+        "province_icon": "",
+        "province": "Kerala",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "53.231",
+        "longitude": "1.281",
+        "geo": "53.23, 1.28a",
+        "city": "Sheffield",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "51.29",
+        "longitude": "3.11",
+        "geo": "51.29, 3.11",
+        "city": "Cardiff",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png",
+        "province": "Wales",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "5.40",
+        "longitude": "67.38",
+        "geo": "5.40, 67.38",
+        "city": "Puerto Ayacucho",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "54.41",
+        "longitude": "25.17",
+        "geo": "54.41, 25.17",
+        "city": "Vilnius",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+        "country": "Lithuania"
+    }
+]

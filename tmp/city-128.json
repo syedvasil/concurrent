@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "40.131",
+        "longitude": "74.461",
+        "geo": "40.13, 74.46a",
+        "city": "Trenton",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/23px-Flag_of_New_Jersey.svg.png",
+        "province": "New Jersey",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "25.19",
+        "longitude": "79.38",
+        "geo": "25.19, 79.38",
+        "city": "Kulpahar",
+        "province_icon": "",
+        "province": "Uttar Pradesh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "1.29",
+        "longitude": "103.44",
+        "geo": "1.29, 103.44",
+        "city": "Johor Bahru",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Johor.svg/23px-Flag_of_Johor.svg.png",
+        "province": "Johor",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "20.35",
+        "longitude": "100.24",
+        "geo": "20.35, 100.24",
+        "city": "Querétaro",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Queretaro.svg/23px-Flag_of_Queretaro.svg.png",
+        "province": "Querétaro",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "4.03",
+        "longitude": "9.42",
+        "geo": "4.03, 9.42",
+        "city": "Douala",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+        "country": "Cameroon"
+    }
+]

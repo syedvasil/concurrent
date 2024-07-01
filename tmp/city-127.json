@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "38.331",
+        "longitude": "121.281",
+        "geo": "38.33, 121.28a",
+        "city": "Sacramento",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "3.42",
+        "longitude": "128.10",
+        "geo": "3.42, 128.10",
+        "city": "Ambon, Maluku",
+        "province_icon": "",
+        "province": "Maluku",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "17.071",
+        "longitude": "61.511",
+        "geo": "17.07, 61.51a",
+        "city": "St. John's",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+        "country": "Antigua and Barbuda"
+    },
+    {
+        "latitude": "12.52",
+        "longitude": "7.34",
+        "geo": "12.52, 7.34",
+        "city": "Koulikoro",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+        "country": "Mali"
+    },
+    {
+        "latitude": "32.47",
+        "longitude": "79.56",
+        "geo": "32.47, 79.56",
+        "city": "Charleston",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/23px-Flag_of_South_Carolina.svg.png",
+        "province": "South Carolina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "72.47",
+        "longitude": "56.09",
+        "geo": "72.47, 56.09",
+        "city": "Upernavik",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png",
+        "province": "Greenland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "44.30",
+        "longitude": "11.21",
+        "geo": "44.30, 11.21",
+        "city": "Bologna",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Emilia-Romagna.svg/23px-Flag_of_Emilia-Romagna.svg.png",
+        "province": "Emilia-Romagna",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "12.39",
+        "longitude": "8.00",
+        "geo": "12.39, 8.00",
+        "city": "Bamako",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+        "country": "Mali"
+    },
+    {
+        "latitude": "51.54",
+        "longitude": "8.28",
+        "geo": "51.54, 8.28",
+        "city": "Cork",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Munster.svg/23px-Flag_of_Munster.svg.png",
+        "province": "Munster",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+        "country": "Ireland"
+    },
+    {
+        "latitude": "43.351",
+        "longitude": "39.431",
+        "geo": "43.35, 39.43a",
+        "city": "Sochi",
+        "province_icon": "",
+        "province": "Krasnodar Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]

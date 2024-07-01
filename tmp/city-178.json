@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "43.55",
+        "longitude": "69.49",
+        "geo": "43.55, 69.49",
+        "city": "Bath",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/23px-Flag_of_Maine.svg.png",
+        "province": "Maine",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "1.26",
+        "longitude": "173.00",
+        "geo": "1.26, 173.00",
+        "city": "South Tarawa",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png",
+        "country": "Kiribati"
+    },
+    {
+        "latitude": "45.59",
+        "longitude": "62.64",
+        "geo": "45.59, 62.64",
+        "city": "New Glasgow",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/23px-Flag_of_Nova_Scotia.svg.png",
+        "province": "Nova Scotia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "66.05",
+        "longitude": "23.08",
+        "geo": "66.05, 23.08",
+        "city": "Ísafjörður",
+        "province_icon": "",
+        "province": "Westfjords",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+        "country": "Iceland"
+    },
+    {
+        "latitude": "35.25",
+        "longitude": "136.46",
+        "geo": "35.25, 136.46",
+        "city": "Gifu",
+        "province_icon": "",
+        "province": "Gifu",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    }
+]

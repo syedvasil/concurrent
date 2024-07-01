@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "62.02",
+        "longitude": "129.44",
+        "geo": "62.02, 129.44",
+        "city": "Yakutsk",
+        "province_icon": "",
+        "province": "Sakha Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "35.311",
+        "longitude": "35.471",
+        "geo": "35.31, 35.47a",
+        "city": "Latakia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png",
+        "country": "Syria"
+    },
+    {
+        "latitude": "28.45",
+        "longitude": "24.46",
+        "geo": "28.45, 24.46",
+        "city": "Kimberley",
+        "province_icon": "",
+        "province": "Northern Cape",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "country": "South Africa"
+    },
+    {
+        "latitude": "3.44",
+        "longitude": "73.15",
+        "geo": "3.44, 73.15",
+        "city": "Iquitos",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "country": "Peru"
+    },
+    {
+        "latitude": "24.34",
+        "longitude": "81.47",
+        "geo": "24.34, 81.47",
+        "city": "Key West",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png",
+        "province": "Florida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

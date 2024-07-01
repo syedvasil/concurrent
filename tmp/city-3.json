@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "18.13",
+        "longitude": "63.03",
+        "geo": "18.13, 63.03",
+        "city": "The Valley",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png",
+        "province": "Anguilla",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "39.15",
+        "longitude": "9.03",
+        "geo": "39.15, 9.03",
+        "city": "Cagliari",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Sardinia.svg/23px-Flag_of_Sardinia.svg.png",
+        "province": "Sardinia",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "country": "Italy"
+    },
+    {
+        "latitude": "7.141",
+        "longitude": "35.531",
+        "geo": "7.14, 35.53a",
+        "city": "Campina Grande",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/22px-Bandeira_da_Para%C3%ADba.svg.png",
+        "province": "Paraíba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "39.49",
+        "longitude": "73.15",
+        "geo": "39.49, 73.15",
+        "city": "Valdivia",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "22.541",
+        "longitude": "47.031",
+        "geo": "22.54, 47.03a",
+        "city": "Campinas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/23px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "province": "São Paulo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

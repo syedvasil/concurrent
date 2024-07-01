@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "39.43",
+        "longitude": "140.07",
+        "geo": "39.43, 140.07",
+        "city": "Akita",
+        "province_icon": "",
+        "province": "Akita",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "35.54",
+        "longitude": "14.28",
+        "geo": "35.54, 14.28",
+        "city": "Birkirkara",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+        "country": "Malta"
+    },
+    {
+        "latitude": "35.54",
+        "longitude": "14.31",
+        "geo": "35.54, 14.31",
+        "city": "Valletta",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+        "country": "Malta"
+    },
+    {
+        "latitude": "2.59",
+        "longitude": "104.45",
+        "geo": "2.59, 104.45",
+        "city": "Palembang",
+        "province_icon": "",
+        "province": "South Sumatera",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "43.33",
+        "longitude": "7.01",
+        "geo": "43.33, 7.01",
+        "city": "Cannes",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Provence-Alpes-Cote_dAzur.svg/23px-Flag_of_Provence-Alpes-Cote_dAzur.svg.png",
+        "province": "Provence-Alpes-Côte d'Azur",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "country": "France"
+    }
+]

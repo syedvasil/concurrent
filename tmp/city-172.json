@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "63.45",
+        "longitude": "68.31",
+        "geo": "63.45, 68.31",
+        "city": "Iqaluit",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/23px-Flag_of_Nunavut.svg.png",
+        "province": "Nunavut",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "0.031",
+        "longitude": "18.151",
+        "geo": "0.03, 18.15a",
+        "city": "Mbandaka",
+        "province_icon": "",
+        "province": "Équateur",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+        "country": "Democratic Republic of the Congo"
+    },
+    {
+        "latitude": "52.22",
+        "longitude": "9.43",
+        "geo": "52.22, 9.43",
+        "city": "Hannover",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_Lower_Saxony.svg/23px-Flag_of_Lower_Saxony.svg.png",
+        "province": "Lower Saxony",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "country": "Germany"
+    },
+    {
+        "latitude": "10.40",
+        "longitude": "61.31",
+        "geo": "10.40, 61.31",
+        "city": "Port of Spain",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+        "country": "Trinidad and Tobago"
+    },
+    {
+        "latitude": "46.25",
+        "longitude": "168.21",
+        "geo": "46.25, 168.21",
+        "city": "Invercargill",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    }
+]

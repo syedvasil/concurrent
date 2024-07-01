@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "26.13",
+        "longitude": "127.41",
+        "geo": "26.13, 127.41",
+        "city": "Naha",
+        "province_icon": "",
+        "province": "Okinawa",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "6.551",
+        "longitude": "107.371",
+        "geo": "6.55, 107.37a",
+        "city": "Bandung",
+        "province_icon": "",
+        "province": "West Java",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "15.11",
+        "longitude": "145.45",
+        "geo": "15.11, 145.45",
+        "city": "Son My",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "1.17",
+        "longitude": "36.49",
+        "geo": "1.17, 36.49",
+        "city": "Nairobi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+        "country": "Kenya"
+    },
+    {
+        "latitude": "33.39",
+        "longitude": "86.49",
+        "geo": "33.39, 86.49",
+        "city": "Birmingham",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/23px-Flag_of_Alabama.svg.png",
+        "province": "Alabama",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

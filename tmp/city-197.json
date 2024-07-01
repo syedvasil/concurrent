@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "20.04",
+        "longitude": "110.34",
+        "geo": "20.04, 110.34",
+        "city": "Haikou",
+        "province_icon": "",
+        "province": "Hainan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "12.03",
+        "longitude": "61.45",
+        "geo": "12.03, 61.45",
+        "city": "St. George's",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png",
+        "country": "Grenada"
+    },
+    {
+        "latitude": "57.46",
+        "longitude": "26.02",
+        "geo": "57.46, 26.02",
+        "city": "Valga",
+        "province_icon": "",
+        "province": "Valga County",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+        "country": "Estonia"
+    },
+    {
+        "latitude": "55.291",
+        "longitude": "8.271",
+        "geo": "55.29, 8.27a",
+        "city": "Esbjerg",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "country": "Denmark"
+    },
+    {
+        "latitude": "29.25",
+        "longitude": "98.30",
+        "geo": "29.25, 98.30",
+        "city": "San Antonio",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png",
+        "province": "Texas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "44.45",
+        "longitude": "19.42",
+        "geo": "44.45, 19.42",
+        "city": "Šabac",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "country": "Serbia"
+    },
+    {
+        "latitude": "17.52",
+        "longitude": "31.02",
+        "geo": "17.52, 31.02",
+        "city": "Harare",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png",
+        "country": "Zimbabwe"
+    },
+    {
+        "latitude": "39.39",
+        "longitude": "176.50",
+        "geo": "39.39, 176.50",
+        "city": "Hastings",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "country": "New Zealand"
+    },
+    {
+        "latitude": "31.56",
+        "longitude": "35.56",
+        "geo": "31.56, 35.56",
+        "city": "Amman",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png",
+        "country": "Jordan"
+    },
+    {
+        "latitude": "30.20",
+        "longitude": "81.40",
+        "geo": "30.20, 81.40",
+        "city": "Jacksonville",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/23px-Flag_of_Florida.svg.png",
+        "province": "Florida",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

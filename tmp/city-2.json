@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "6.10",
+        "longitude": "35.45",
+        "geo": "6.10, 35.45",
+        "city": "Dodoma",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+        "country": "Tanzania"
+    },
+    {
+        "latitude": "4.361",
+        "longitude": "74.051",
+        "geo": "4.36, 74.05a",
+        "city": "Bogotá",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "country": "Colombia"
+    },
+    {
+        "latitude": "63.29",
+        "longitude": "11.10",
+        "geo": "63.29, 11.10",
+        "city": "Stjørdal",
+        "province_icon": "",
+        "province": "Nord-Trøndelag",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "15.381",
+        "longitude": "32.321",
+        "geo": "15.38, 32.32a",
+        "city": "Khartoum",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png",
+        "country": "Sudan"
+    },
+    {
+        "latitude": "20.10",
+        "longitude": "28.35",
+        "geo": "20.10, 28.35",
+        "city": "Bulawayo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png",
+        "country": "Zimbabwe"
+    }
+]

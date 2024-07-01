@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "50.51",
+        "longitude": "5.41",
+        "geo": "50.51, 5.41",
+        "city": "Maastricht",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NL-LimburgVlag.svg/23px-NL-LimburgVlag.svg.png",
+        "province": "Limburg (Netherlands)",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "country": "Netherlands"
+    },
+    {
+        "latitude": "50.27",
+        "longitude": "104.36",
+        "geo": "50.27, 104.36",
+        "city": "Regina",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/23px-Flag_of_Saskatchewan.svg.png",
+        "province": "Saskatchewan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "20.51",
+        "longitude": "106.41",
+        "geo": "20.51, 106.41",
+        "city": "Hai Phong",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "country": "Vietnam"
+    },
+    {
+        "latitude": "31.33",
+        "longitude": "74.21",
+        "geo": "31.33, 74.21",
+        "city": "Lahore",
+        "province_icon": "",
+        "province": "Punjab",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "10.431",
+        "longitude": "122.341",
+        "geo": "10.43, 122.34a",
+        "city": "Iloilo City",
+        "province_icon": "",
+        "province": "Iloilo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    }
+]

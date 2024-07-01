@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "15.25",
+        "longitude": "28.17",
+        "geo": "15.25, 28.17",
+        "city": "Lusaka",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+        "country": "Zambia"
+    },
+    {
+        "latitude": "57.03",
+        "longitude": "135.20",
+        "geo": "57.03, 135.20",
+        "city": "Sitka",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "27.50",
+        "longitude": "48.25",
+        "geo": "27.50, 48.25",
+        "city": "Florianópolis",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/21px-Bandeira_de_Santa_Catarina.svg.png",
+        "province": "Santa Catarina",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "31.25",
+        "longitude": "64.11",
+        "geo": "31.25, 64.11",
+        "city": "Córdoba",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bandera_de_la_Provincia_de_C%C3%B3rdoba.svg/23px-Bandera_de_la_Provincia_de_C%C3%B3rdoba.svg.png",
+        "province": "Córdoba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "18.08",
+        "longitude": "178.27",
+        "geo": "18.08, 178.27",
+        "city": "Suva",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+        "country": "Fiji"
+    }
+]

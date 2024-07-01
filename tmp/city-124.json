@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "8.39",
+        "longitude": "115.13",
+        "geo": "8.39, 115.13",
+        "city": "Denpasar",
+        "province_icon": "",
+        "province": "Bali",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "21.28",
+        "longitude": "71.08",
+        "geo": "21.28, 71.08",
+        "city": "Cockburn Town",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+        "province": "Turks and Caicos Islands",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "22.49",
+        "longitude": "108.19",
+        "geo": "22.49, 108.19",
+        "city": "Nanning",
+        "province_icon": "",
+        "province": "Guangxi",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    },
+    {
+        "latitude": "6.55",
+        "longitude": "79.53",
+        "geo": "6.55, 79.53",
+        "city": "Sri Jayawardenapura-Kotte",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "country": "Sri Lanka"
+    },
+    {
+        "latitude": "44.20",
+        "longitude": "23.49",
+        "geo": "44.20, 23.49",
+        "city": "Craiova",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+        "country": "Romania"
+    }
+]

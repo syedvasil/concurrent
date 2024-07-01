@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "42.40",
+        "longitude": "21.10",
+        "geo": "42.40, 21.10",
+        "city": "Pristina",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/21px-Flag_of_Kosovo.svg.png",
+        "province": "Kosovo",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "country": "Serbia"
+    },
+    {
+        "latitude": "47.55",
+        "longitude": "106.55",
+        "geo": "47.55, 106.55",
+        "city": "Ulan Bator",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png",
+        "country": "Mongolia"
+    },
+    {
+        "latitude": "9.04",
+        "longitude": "7.29",
+        "geo": "9.04, 7.29",
+        "city": "Abuja",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "country": "Nigeria"
+    },
+    {
+        "latitude": "13.051",
+        "longitude": "80.161",
+        "geo": "13.05, 80.16a",
+        "city": "Chennai (Madras)",
+        "province_icon": "",
+        "province": "Tamil Nadu",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "34.26",
+        "longitude": "119.43",
+        "geo": "34.26, 119.43",
+        "city": "Santa Barbara",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "16.26",
+        "longitude": "102.50",
+        "geo": "16.26, 102.50",
+        "city": "Khon Kaen",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "39.28",
+        "longitude": "0.23",
+        "geo": "39.28, 0.23",
+        "city": "Valencia",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_the_Valencian_Community_%282x3%29.svg/23px-Flag_of_the_Valencian_Community_%282x3%29.svg.png",
+        "province": "Valencian Community",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "3.06",
+        "longitude": "60.01",
+        "geo": "3.06, 60.01",
+        "city": "Manaus",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/21px-Bandeira_do_Amazonas.svg.png",
+        "province": "Amazonas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "5.33",
+        "longitude": "95.19",
+        "geo": "5.33, 95.19",
+        "city": "Banda Aceh",
+        "province_icon": "",
+        "province": "Aceh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "58.18",
+        "longitude": "134.25",
+        "geo": "58.18, 134.25",
+        "city": "Juneau",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    }
+]

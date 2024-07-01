@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "7.04",
+        "longitude": "125.36",
+        "geo": "7.04, 125.36",
+        "city": "Davao City",
+        "province_icon": "",
+        "province": "Davao del Norte",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "country": "Philippines"
+    },
+    {
+        "latitude": "36.42",
+        "longitude": "137.13",
+        "geo": "36.42, 137.13",
+        "city": "Toyama",
+        "province_icon": "",
+        "province": "Toyama",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "32.431",
+        "longitude": "117.101",
+        "geo": "32.43, 117.10a",
+        "city": "San Diego",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/23px-Flag_of_California.svg.png",
+        "province": "California",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "37.49",
+        "longitude": "25.45",
+        "geo": "37.49, 25.45",
+        "city": "Ponta Delgada",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_Azores.svg/23px-Flag_of_the_Azores.svg.png",
+        "province": "Azores",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "country": "Portugal"
+    },
+    {
+        "latitude": "8.53",
+        "longitude": "36.30",
+        "geo": "8.53, 36.30",
+        "city": "Garanhuns",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/22px-Bandeira_de_Pernambuco.svg.png",
+        "province": "Pernambuco",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

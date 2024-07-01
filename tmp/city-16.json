@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "4.55",
+        "longitude": "1.46",
+        "geo": "4.55, 1.46",
+        "city": "Sekondi-Takoradi",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "country": "Ghana"
+    },
+    {
+        "latitude": "53.48",
+        "longitude": "1.45",
+        "geo": "53.48, 1.45",
+        "city": "Bradford",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "41.28",
+        "longitude": "72.56",
+        "geo": "41.28, 72.56",
+        "city": "Puerto Montt",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "country": "Chile"
+    },
+    {
+        "latitude": "11.11",
+        "longitude": "4.17",
+        "geo": "11.11, 4.17",
+        "city": "Bobo-Dioulasso",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+        "country": "Burkina Faso"
+    },
+    {
+        "latitude": "51.10",
+        "longitude": "71.26",
+        "geo": "51.10, 71.26",
+        "city": "Astana",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+        "country": "Kazakhstan"
+    }
+]

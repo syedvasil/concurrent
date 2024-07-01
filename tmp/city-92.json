@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "13.41",
+        "longitude": "89.11",
+        "geo": "13.41, 89.11",
+        "city": "San Salvador",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png",
+        "country": "El Salvador"
+    },
+    {
+        "latitude": "49.54",
+        "longitude": "97.08",
+        "geo": "49.54, 97.08",
+        "city": "Winnipeg",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/23px-Flag_of_Manitoba.svg.png",
+        "province": "Manitoba",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "52.24",
+        "longitude": "1.31",
+        "geo": "52.24, 1.31",
+        "city": "Coventry",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "76.251",
+        "longitude": "82.541",
+        "geo": "76.25, 82.54a",
+        "city": "Grise Fiord",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/23px-Flag_of_Nunavut.svg.png",
+        "province": "Nunavut",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "51.37",
+        "longitude": "3.57",
+        "geo": "51.37, 3.57",
+        "city": "Swansea",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png",
+        "province": "Wales",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    }
+]

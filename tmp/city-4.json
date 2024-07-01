@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "40.49",
+        "longitude": "96.41",
+        "geo": "40.49, 96.41",
+        "city": "Lincoln",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/23px-Flag_of_Nebraska.svg.png",
+        "province": "Nebraska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "29.461",
+        "longitude": "95.231",
+        "geo": "29.46, 95.23a",
+        "city": "Houston",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/23px-Flag_of_Texas.svg.png",
+        "province": "Texas",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "7.01",
+        "longitude": "100.28",
+        "geo": "7.01, 100.28",
+        "city": "Hat Yai",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    },
+    {
+        "latitude": "36.11",
+        "longitude": "115.08",
+        "geo": "36.11, 115.08",
+        "city": "Las Vegas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/23px-Flag_of_Nevada.svg.png",
+        "province": "Nevada",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "9.23",
+        "longitude": "179.51",
+        "geo": "9.23, 179.51",
+        "city": "Nukulaelae",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png",
+        "country": "Tuvalu"
+    }
+]

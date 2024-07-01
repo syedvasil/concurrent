@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "11.38",
+        "longitude": "79.42",
+        "geo": "11.38, 79.42",
+        "city": "Palmas",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_do_Tocantins.svg/22px-Bandeira_do_Tocantins.svg.png",
+        "province": "Tocantins",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    },
+    {
+        "latitude": "32.28",
+        "longitude": "93.42",
+        "geo": "32.28, 93.42",
+        "city": "Shreveport",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/23px-Flag_of_Louisiana.svg.png",
+        "province": "Louisiana",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "52.35",
+        "longitude": "0.15",
+        "geo": "52.35, 0.15",
+        "city": "Peterborough",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png",
+        "province": "England",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "country": "United Kingdom"
+    },
+    {
+        "latitude": "41.091",
+        "longitude": "71.181",
+        "geo": "41.09, 71.18a",
+        "city": "San Carlos de Bariloche",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg/23px-Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg.png",
+        "province": "Río Negro",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "0.19",
+        "longitude": "32.35",
+        "geo": "0.19, 32.35",
+        "city": "Kampala",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png",
+        "country": "Uganda"
+    }
+]

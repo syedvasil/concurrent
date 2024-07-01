@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "10.39",
+        "longitude": "71.38",
+        "geo": "10.39, 71.38",
+        "city": "Maracaibo",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "country": "Venezuela"
+    },
+    {
+        "latitude": "69.41",
+        "longitude": "18.57",
+        "geo": "69.41, 18.57",
+        "city": "Tromsø",
+        "province_icon": "",
+        "province": "Troms",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "25.23",
+        "longitude": "68.22",
+        "geo": "25.23, 68.22",
+        "city": "Hyderabad",
+        "province_icon": "",
+        "province": "Sindh",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "country": "Pakistan"
+    },
+    {
+        "latitude": "0.01",
+        "longitude": "109.20",
+        "geo": "0.01, 109.20",
+        "city": "Pontianak",
+        "province_icon": "",
+        "province": "West Kalimantan",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "country": "Indonesia"
+    },
+    {
+        "latitude": "44.571",
+        "longitude": "34.061",
+        "geo": "44.57, 34.06a",
+        "city": "Simferopol",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Crimea.svg/23px-Flag_of_Crimea.svg.png",
+        "province": "Crimea",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "country": "Ukraine"
+    }
+]

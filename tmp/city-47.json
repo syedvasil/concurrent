@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "39.091",
+        "longitude": "127.271",
+        "geo": "39.09, 127.27a",
+        "city": "Wonsan",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+        "country": "North Korea"
+    },
+    {
+        "latitude": "18.31",
+        "longitude": "73.51",
+        "geo": "18.31, 73.51",
+        "city": "Pune",
+        "province_icon": "",
+        "province": "Maharashtra",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "38.04",
+        "longitude": "46.18",
+        "geo": "38.04, 46.18",
+        "city": "Tabriz",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "country": "Iran"
+    },
+    {
+        "latitude": "26.19",
+        "longitude": "31.08",
+        "geo": "26.19, 31.08",
+        "city": "Mbabane",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/23px-Flag_of_Swaziland.svg.png",
+        "country": "Swaziland"
+    },
+    {
+        "latitude": "23.08",
+        "longitude": "113.16",
+        "geo": "23.08, 113.16",
+        "city": "Guangzhou",
+        "province_icon": "",
+        "province": "Guangdong",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "country": "People's Republic of China"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "32.57",
+        "longitude": "60.40",
+        "geo": "32.57, 60.40",
+        "city": "Rosario",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg/23px-Bandera_de_la_Provincia_de_Santa_Fe.svg.png",
+        "province": "Santa Fe",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "country": "Argentina"
+    },
+    {
+        "latitude": "5.58",
+        "longitude": "116.06",
+        "geo": "5.58, 116.06",
+        "city": "Kota Kinabalu",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Sabah.svg/23px-Flag_of_Sabah.svg.png",
+        "province": "Sabah",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "country": "Malaysia"
+    },
+    {
+        "latitude": "12.58",
+        "longitude": "77.34",
+        "geo": "12.58, 77.34",
+        "city": "Bangalore",
+        "province_icon": "",
+        "province": "Karnataka",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "country": "India"
+    },
+    {
+        "latitude": "19.03",
+        "longitude": "98.13",
+        "geo": "19.03, 98.13",
+        "city": "Puebla",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Puebla.svg/23px-Flag_of_Puebla.svg.png",
+        "province": "Puebla",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "country": "Mexico"
+    },
+    {
+        "latitude": "3.401",
+        "longitude": "40.141",
+        "geo": "3.40, 40.14a",
+        "city": "Sobral",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/22px-Bandeira_do_Cear%C3%A1.svg.png",
+        "province": "Ceará",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "country": "Brazil"
+    }
+]

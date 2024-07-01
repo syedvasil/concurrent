@@ -1,0 +1,52 @@
+[
+    {
+        "latitude": "34.14",
+        "longitude": "135.10",
+        "geo": "34.14, 135.10",
+        "city": "Wakayama",
+        "province_icon": "",
+        "province": "Wakayama",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "country": "Japan"
+    },
+    {
+        "latitude": "42.301",
+        "longitude": "1.301",
+        "geo": "42.30, 1.30a",
+        "city": "Andorra la Vella",
+        "province_icon": "",
+        "province": "",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+        "country": "Andorra"
+    },
+    {
+        "latitude": "41.39",
+        "longitude": "0.53",
+        "geo": "41.39, 0.53",
+        "city": "Zaragoza",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/23px-Flag_of_Aragon.svg.png",
+        "province": "Aragon",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "country": "Spain"
+    },
+    {
+        "latitude": "54.431",
+        "longitude": "20.311",
+        "geo": "54.43, 20.31a",
+        "city": "Kaliningrad",
+        "province_icon": "",
+        "province": "Kaliningrad Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "19.55",
+        "longitude": "99.50",
+        "geo": "19.55, 99.50",
+        "city": "Chiang Rai",
+        "province_icon": "",
+        "province": "Chiang Rai Province",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "country": "Thailand"
+    }
+]
